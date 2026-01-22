@@ -1,6 +1,6 @@
 # Florence Emond
 
-**Ma photo sera représenté ici**
+![photo](portrait/photo_portrait/photo-moi-au-musee.jpg)
 > Photo de moi :)
 
 ## **Intérêts dans le multimedia**
