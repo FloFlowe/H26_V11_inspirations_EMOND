@@ -65,9 +65,29 @@ L'installation de cette oeuvre est à la fois à but comtemplatif et à but imme
 <br/>
 
 ### Mise en espace
-L'oeuvre de Dayna se trouve au fond à gauche de l'entrée de la salle d'exposition de la galerie. L'oeuvre se divise en deux parties: Les écrans principaux et les postes avec les moniteurs. Lorsque l'on regarde les écrans principaux, sur le mur adjacent de gauche se retrouve les moniteurs sur de petites tables avec des écouteurs pour écouter les diverses vidéo présentées. Les moniteurs et le cartel prennent quatre à cinq mètres sur le long du mur avec le matériel au dessous. Du côté des écrans principaux, ceux-ci font environ 45 pouces en calculant la diagonale. Au dessus de chaque écrans se retrouve un haut parleur. Les haut-parleur et écrans entourant celle du milieux sont en angles d'environ 35 à 45 degré vers celle-ci. Un espace d'environ 3 mêtres carrés est disponnible pour se déplacer devant les écrans et un espace semblable est à l'arrière des écrans, où se retrouve l'ordinateur et du matériel. Les 3 écrans sont soutenue par le plafond par des barres de métaliques, elles ne touche donc pas le sol et ne sont pas installées sur un mur.
+L'oeuvre de Dayna se trouve au fond à gauche de l'entrée de la salle d'exposition de la galerie. L'oeuvre se divise en deux parties: Les écrans principaux et les postes avec les moniteurs. Lorsque l'on regarde les écrans principaux, sur le mur adjacent de gauche se retrouve les moniteurs d'environ 15 pouces sur de petites tables avec des casques d'écoute pour écouter les diverses vidéo présentées. Les moniteurs et le cartel prennent quatre à cinq mètres sur le long du mur avec le matériel au dessous. Du côté des écrans principaux d'environ 50 pouces, au dessus de chaque écrans se retrouve un haut parleur. Les haut-parleur et écrans entourant celle du milieux sont en angles d'environ 35 à 45 degré vers celle-ci. Un espace d'environ 3 mêtres carrés est disponnible pour se déplacer devant les écrans et un espace semblable est à l'arrière des écrans, où se retrouve l'ordinateur et du matériel. Les 3 écrans sont soutenue par le plafond par des barres de métaliques, elles ne touche donc pas le sol et ne sont pas installées sur un mur.
+
+<br/>
 
 ### Composants et techniques
+Les composantes techniques sont majoritairement composés de fil ainsi que de multiples écrans. <br/><br/>
+
+Sur le mur des moniteurs nous pouvons y retrouver:
+- 3 moniteurs d'environ 15 pouces
+- 3 casques découte filaire
+- 3 préamplis pour contrôler le son des vidéos
+- Une multiprise pour brancher les écrans et les préamplis
+  
+<br/>
+
+Du côté des écrans nous pouvons y retrouver:
+- 3 écrans d'environ 50 pouces
+- 3 haut-parleurs
+- l'ordinateur qui contrôle l'oeuvre et qui joue les vidéos en boucle
+- un préampli pour contrôler le son des haut-parleurs
+- des fils reliant l'installation côté moniteur à l'ordinateur
+
+<br/> 
 
 ### Éléments nécessaires à la mise en exposition
 
