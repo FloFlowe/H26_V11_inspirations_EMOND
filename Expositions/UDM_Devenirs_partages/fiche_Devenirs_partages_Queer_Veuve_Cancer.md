@@ -57,7 +57,7 @@ Pour plus d'informations sur l'artiste, voici sa Bio sur son site web :
 
 <br/>
 
-L'installation de cette oeuvre est à la fois à but comtemplatif et à but immersif. Même si on ne se retrouve pas dans une pièce qui stimule nos sens, les écrans en angle de l'installation principale créent une bulle autour du spectateur et l'enveloppe dans l'hisoire que partage ***Dayna2***, la deuxième sosie de Dayna. Cette installation met en valeur l'histoire de Dayna pour que l'on apprenne à la connaître à travers les multiples vidéos disponnibles à écouter et regarder.
+L'installation de cette oeuvre est à la fois à but comtemplatif et à but immersif. Même si on ne se retrouve pas dans une pièce qui stimule nos sens, les écrans en angle de l'installation principale créent une bulle autour du spectateur et l'enveloppe dans l'hisoire que partage ***DaynAI2***, la deuxième sosie de Dayna. Cette installation met en valeur l'histoire de Dayna pour que l'on apprenne à la connaître à travers les multiples vidéos disponnibles à écouter et regarder.
 
 ![Image de l'oeuvre](Croquis/queer_veuve_cancer_croquis.png) 
 >Croquis de l'installation fait suite à la visite de l'exposition.
@@ -120,7 +120,7 @@ Il est possible que d'autres éléments soient étés fournis par la galerie.
 > Vue d'ensemble de la salle d'exposition à la galerie de l'Université de Montréal.
 
 ### Posture du visiteur
-Lorsque l'on rentre dans la salle d'exposition, il est possible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni de chemin à suivre. La salle est légèrement obsurcie, les oeuvres sont bien éclairées. Au milieu de la salle se retrouve des fauteuils où l'on peut s'asseoir. Nous pouvons donc se diriger vers l'oeuvre librement puis, rendu à l'oeuvre, il est possible d'écouter les 3 vidéos expliquant le processus de création sur les moniteurs à l'aide des casques découte, ou bien de se diriger devant les écrans principaux pour écouter l'histoire que raconte Dayna2. Il n'y a aucune interaction à faire avec les vidéos à part mettre un casque aux moniteurs, les vidéos jouent en boucle.
+Lorsque l'on rentre dans la salle d'exposition, il est possible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni de chemin à suivre. La salle est légèrement obsurcie, les oeuvres sont bien éclairées. Au milieu de la salle se retrouve des fauteuils où l'on peut s'asseoir. Nous pouvons donc se diriger vers l'oeuvre librement puis, rendu à l'oeuvre, il est possible d'écouter les 3 vidéos expliquant le processus de création sur les moniteurs à l'aide des casques découte, ou bien de se diriger devant les écrans principaux pour écouter l'histoire que raconte DaynAI2. Il n'y a aucune interaction à faire avec les vidéos à part mettre un casque aux moniteurs, les vidéos jouent en boucle.
 
 <br/>
 
