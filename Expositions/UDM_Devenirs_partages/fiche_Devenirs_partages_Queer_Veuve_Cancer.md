@@ -13,6 +13,9 @@ Le jeudi 29 janvier 2026, j'ai visité l'exposition temporaire ***Devenirs parta
 
 <br/>
 
+
+
+ 
 ## Queer. Veuve. Cancer.
 
 ![Image de l'oeuvre](Media/queer_veuve_cancer_ecrans.png) 
@@ -35,3 +38,20 @@ Voici le lien vers la page de présentation de l'installation ***Queer. Veuve. C
 
 Pour plus d'informations sur l'artiste, voici sa Bio sur son site web :
 <https://daynarama.com/bio/>
+
+<br/>
+
+
+
+
+## Mise en exposition de l'oeuvre
+
+![Image de l'oeuvre](Media/queer_veuve_cancer_postes.png) ![Image de l'oeuvre](Media/queer_veuve_cancer_ecrans.png)
+> Écrans principals de l'installation de l'oeuvre *Queer. Veuve. Cancer.*, ainsi que l'installation de postes avec vidéos complémentaires du projet.
+<br/>
+
+L'installation de cette oeuvre est à la fois à but comtemplatif et à but immersif. Même si on ne se retrouve pas dans une pièce qui stimule nos sens, les écrans en angle de l'installation principale créent une bulle autour du spectateur et l'enveloppe dans l'hisoire que partage ***Dayna2***, la deuxième sosie de Dayna. Cette installation met en valeur l'histoire de Dayna pour que l'on apprenne à la connaître à travers les multiples vidéos disponnibles à écouter et regarder.
+
+![Image de l'oeuvre](Croquis/queer_veuve_cancer_croquis.png) 
+>Croquis de l'installation fait suite à la visite de la galerie.
+<br/>
