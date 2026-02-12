@@ -46,8 +46,11 @@ Pour plus d'informations sur l'artiste, voici sa Bio sur son site web :
 
 ## Mise en exposition de l'oeuvre
 
-![Image de l'oeuvre](Media/queer_veuve_cancer_postes.png) ![Image de l'oeuvre](Media/queer_veuve_cancer_ecrans.png)
-> Écrans principals de l'installation de l'oeuvre *Queer. Veuve. Cancer.*, ainsi que l'installation de postes avec vidéos complémentaires du projet.
+![Image de l'oeuvre](Media/queer_veuve_cancer_vue_ensemble.png) 
+![Image de l'oeuvre](Media/queer_veuve_cancer_postes.png) 
+> ansi que l'iinstallation de postes avec vidéos complémentaires du projet.
+![Image de l'oeuvre](Media/queer_veuve_cancer_ecrans.png)
+> Écrans principals de l'installation de l'oeuvre *Queer. Veuve. Cancer.*
 <br/>
 
 L'installation de cette oeuvre est à la fois à but comtemplatif et à but immersif. Même si on ne se retrouve pas dans une pièce qui stimule nos sens, les écrans en angle de l'installation principale créent une bulle autour du spectateur et l'enveloppe dans l'hisoire que partage ***Dayna2***, la deuxième sosie de Dayna. Cette installation met en valeur l'histoire de Dayna pour que l'on apprenne à la connaître à travers les multiples vidéos disponnibles à écouter et regarder.
@@ -55,3 +58,5 @@ L'installation de cette oeuvre est à la fois à but comtemplatif et à but imme
 ![Image de l'oeuvre](Croquis/queer_veuve_cancer_croquis.png) 
 >Croquis de l'installation fait suite à la visite de la galerie.
 <br/>
+
+
