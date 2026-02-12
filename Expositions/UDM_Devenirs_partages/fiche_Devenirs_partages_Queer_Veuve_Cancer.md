@@ -110,7 +110,7 @@ Le musée a mis en places quelques dispositifs pour la mise en place de cette oe
   
 <br/> 
 
-Il est possible que d'autres éléments ont étés fournis par la galerie.
+Il est possible que d'autres éléments soient étés fournis par la galerie.
 
 <br/>
 
@@ -120,20 +120,20 @@ Il est possible que d'autres éléments ont étés fournis par la galerie.
 > Vue d'ensemble de la salle d'exposition à la galerie de l'Université de Montréal.
 
 ### Posture du visiteur
-L'orsque l'on rentre dans la salle d'exposition, il est posible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni chemin à suivre. La salle est légèrement obsurcie, les oeuvres elles sont bien éclairées. Au milieu de la salle se retrouve des fauteuils où l'on peut s'asseoir. Nous pouvons donc se diriger vers l'oeuvre librement puis, rendu à l'oeuvre, il est possible d'écouter les 3 vidéos expliquant le processus de création sur les moniteurs à l'aide des casques découte, ou bien de se diriger devant les écrans principaux pour écouter l'histoire que raconte Dayna2. Il n'y a aucune interaction à faire avec les vidéos à part mettre un casque aux moniteurs, les vidéos jouent en boucle.
+Lorsque l'on rentre dans la salle d'exposition, il est possible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni de chemin à suivre. La salle est légèrement obsurcie, les oeuvres sont bien éclairées. Au milieu de la salle se retrouve des fauteuils où l'on peut s'asseoir. Nous pouvons donc se diriger vers l'oeuvre librement puis, rendu à l'oeuvre, il est possible d'écouter les 3 vidéos expliquant le processus de création sur les moniteurs à l'aide des casques découte, ou bien de se diriger devant les écrans principaux pour écouter l'histoire que raconte Dayna2. Il n'y a aucune interaction à faire avec les vidéos à part mettre un casque aux moniteurs, les vidéos jouent en boucle.
 
 <br/>
 
 ### Mon opinion sur cette oeuvre
-Personnelement, j'ai ressentie plusieurs choses en rentrant dans cette expérience qu'est l'oeuvre de Dayna MCleod. J'ai fait le tour du spectre des émotions, j'ai pu ressentir de la joie comme de la tristesse. Cette expérience nous fait réaliser que si un dispositif composé d'intelligence artificielle partage un comportement humain avec nous, les humains, nous sommes aptes à avoir de l'empathie envers le dispositif comme si il serait lui-même humain.
+Personnellement, j'ai ressentie plusieurs choses en rentrant dans cette expérience qu'est l'oeuvre de Dayna MCleod. J'ai fait le tour du spectre des émotions, j'ai pu ressentir de la joie comme de la tristesse. Cette expérience nous fait réaliser que si un dispositif composé d'intelligence artificielle partage un comportement humain avec nous, nous les humains, sommes aptes à avoir de l'empathie envers le dispositif comme si il serait lui-même humain.
 
 <br/>
 
-j'ai aimé ce moyen de créer de l'empathie envers quelque chose d'iréel. Peu de personnes sont prêtes à développer une relation affective avec une chose qui n'existe pas réellement, mais cette oeuvre fait totallement ça. Contre notre gré, on construit de l'empathie et des émotions envers l'intelligence artificielle car elle prend la forme d'une personne. L'oeuvre joue dans cette division que nous avons avec l'intelligence artificielle. Ressentir le besoin de soutenir quelque chose d'iréel, la science derrière le cerveau humain est très intéressant!
+j'ai aimé ce moyen de créer de l'empathie envers quelque chose d'iréel. Peu de personnes sont prêtes à développer une relation affective avec une chose qui n'existe pas réellement, mais cette oeuvre fait totallement ça! Contre notre gré, on construit de l'empathie et des émotions envers l'intelligence artificielle car elle prend la forme d'une personne. L'oeuvre joue dans cette division morale que nous avons avec l'intelligence artificielle. Ressentir le besoin de soutenir quelque chose d'iréel, la science derrière le cerveau humain est très intéressant!
 
 <br/>
 
-Je crois que l'un des aspects que je ne reproduirait autrement serait les postes avec les moniteurs. J'ai aimé que 3 vidéos explicatives soient à disposition, mais je crois que chacun des moniteurs devraint jouer les 3 vidéos l'une après les autres. Lorsqu'une vidéo est présentée par poste, il est parfois compliqué d'écouter les autres vidéos puisques d'autres personnes occupent déjà les autre postes. Se serait plus fluide de pouvoir écouter les 3 vidéos disponnible bac à bac sans changer d'espace constamment.
+Je crois que l'un des aspects que je reproduirait autrement serait les postes avec les moniteurs. J'ai aimé les 3 vidéos explicatives à disposition, mais je crois que chacun des moniteurs devraient jouer les 3 vidéos l'une après les autres. Lorsqu'une seule vidéo est présentée par poste, il est parfois compliqué d'écouter les autres vidéos puisques d'autres personnes occupent déjà les autre postes. Il serait plus fluide de pouvoir écouter les 3 vidéos disponnible une à la suite de l'autre sans changer d'espace constamment. Aussi, j'aurais apprécié qu'un ordre soir prédéfinis dans l'écoute des vidéos. Je me suis demandé tout au long de l'écoute si je devais avoir du contexte préalable avec les autres vidéos disponnibles.
 
 <br/>
 
