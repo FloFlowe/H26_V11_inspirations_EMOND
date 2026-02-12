@@ -64,12 +64,19 @@ L'installation de cette oeuvre est à la fois à but comtemplatif et à but imme
 
 <br/>
 
-### Mise en espace
+## Mise en espace
+
+![Image de l'oeuvre](Media/queer_veuve_cancer_fils.png) 
+>Fils permettant la connection des moniteurs au mur.
+
+![Image de l'oeuvre](Media/queer_veuve_cancer_ordinateur.png) 
+>Ordinateur à l'arrière des écrans.
+
 L'oeuvre de Dayna se trouve au fond à gauche de l'entrée de la salle d'exposition de la galerie. L'oeuvre se divise en deux parties: Les écrans principaux et les postes avec les moniteurs. Lorsque l'on regarde les écrans principaux, sur le mur adjacent de gauche se retrouve les moniteurs d'environ 15 pouces sur de petites tables avec des casques d'écoute pour écouter les diverses vidéo présentées. Les moniteurs et le cartel prennent quatre à cinq mètres sur le long du mur avec le matériel au dessous. Du côté des écrans principaux d'environ 50 pouces, au dessus de chaque écrans se retrouve un haut parleur. Les haut-parleur et écrans entourant celle du milieux sont en angles d'environ 35 à 45 degré vers celle-ci. Un espace d'environ 3 mêtres carrés est disponnible pour se déplacer devant les écrans et un espace semblable est à l'arrière des écrans, où se retrouve l'ordinateur et du matériel. Les 3 écrans sont soutenue par le plafond par des barres de métaliques, elles ne touche donc pas le sol et ne sont pas installées sur un mur.
 
 <br/>
 
-### Composants et techniques
+## Composants et techniques
 Les composantes techniques sont majoritairement composés de fil ainsi que de multiples écrans. <br/><br/>
 
 Sur le mur des moniteurs nous pouvons y retrouver:
@@ -89,9 +96,34 @@ Du côté des écrans nous pouvons y retrouver:
 
 <br/> 
 
-### Éléments nécessaires à la mise en exposition
+Les éléments comme les écrans et l'ordinateur sont plus lourds, fragile et donc plus compliqué à voyager d'une destination à l'autre.
 
-### Expérience vécue
+<br/> 
+
+
+## Éléments nécessaires à la mise en exposition
+Le musée a mis en places quelques dispositifs pour la mise en place de cette oeuvre: 
+- Des câbles ent tout genre
+- Les tablettes servant à créer les 3 stations avec moniteurs
+- Les barres qui soutienent les matériel à partir du plafond
+- des attaches fils pour que ceux-ci soient bien attachés sur les barres qui soutiennent le matériel
+  
+<br/> 
+
+Il est possible que d'autres éléments ont étés fournis par la galerie.
+
+<br/>
+
+## Expérience vécue
+
+![Image de l'oeuvre](Media/queer_veuve_cancer_vue_ensemble.png) 
+> Vue d'ensemble de la salle d'exposition à la galerie de l'Université de Montréal.
+
+### Posture du visiteur
+L'orsque l'on rentre dans la salle d'exposition, il est posible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni chemin à suivre. La salle est légèrement obsurcie, les oeuvres elles sont bien éclairées. Au milieu de la salle se retrouve des fauteuil où l'on peut s'asseoir. 
+
+
+<br/>
 
 ## Références
 
@@ -105,3 +137,7 @@ Site web de l'artiste Dayna MCleod : <https://daynarama.com>
 > J'ai consulté sa biographie et la page de l'installation *Queer. Veuve. Cancer.*
 
 Page de l'exposition *Devenirs partagés: Pratiques de l'IA* sur le site de la galerie de l'université de Montréal : <https://galerie.umontreal.ca/devenirs-partagees-pratiques-de-lia.php>
+
+Troisième partie du cartel:
+
+![Image du cartel](Media/queer_veuve_cancer_cartel_fiche_3.png) 
