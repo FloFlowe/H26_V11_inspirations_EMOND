@@ -124,9 +124,16 @@ L'orsque l'on rentre dans la salle d'exposition, il est posible de se diriger ve
 
 <br/>
 
-### Mon opinion sur cetet oeuvre
+### Mon opinion sur cette oeuvre
 Personnelement, j'ai ressentie plusieurs choses en rentrant dans cette expérience qu'est l'oeuvre de Dayna MCleod. J'ai fait le tour du spectre des émotions, j'ai pu ressentir de la joie comme de la tristesse. Cette expérience nous fait réaliser que si un dispositif composé d'intelligence artificielle partage un comportement humain avec nous, les humains, nous sommes aptes à avoir de l'empathie envers le dispositif comme si il serait lui-même humain.
 
+<br/>
+
+j'ai aimé ce moyen de créer de l'empathie envers quelque chose d'iréel. Peu de personnes sont prêtes à développer une relation affective avec une chose qui n'existe pas réellement, mais cette oeuvre fait totallement ça. Contre notre gré, on construit de l'empathie et des émotions envers l'intelligence artificielle car elle prend la forme d'une personne. L'oeuvre joue dans cette division que nous avons avec l'intelligence artificielle. Ressentir le besoin de soutenir quelque chose d'iréel, la science derrière le cerveau humain est très intéressant!
+
+<br/>
+
+Je crois que l'un des aspects que je ne reproduirait autrement serait les postes avec les moniteurs. J'ai aimé que 3 vidéos explicatives soient à disposition, mais je crois que chacun des moniteurs devraint jouer les 3 vidéos l'une après les autres. Lorsqu'une vidéo est présentée par poste, il est parfois compliqué d'écouter les autres vidéos puisques d'autres personnes occupent déjà les autre postes. Se serait plus fluide de pouvoir écouter les 3 vidéos disponnible bac à bac sans changer d'espace constamment.
 
 <br/>
 
