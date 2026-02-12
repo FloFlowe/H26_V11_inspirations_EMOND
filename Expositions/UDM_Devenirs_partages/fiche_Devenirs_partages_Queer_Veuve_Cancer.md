@@ -120,7 +120,12 @@ Il est possible que d'autres éléments ont étés fournis par la galerie.
 > Vue d'ensemble de la salle d'exposition à la galerie de l'Université de Montréal.
 
 ### Posture du visiteur
-L'orsque l'on rentre dans la salle d'exposition, il est posible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni chemin à suivre. La salle est légèrement obsurcie, les oeuvres elles sont bien éclairées. Au milieu de la salle se retrouve des fauteuil où l'on peut s'asseoir. 
+L'orsque l'on rentre dans la salle d'exposition, il est posible de se diriger vers l'oeuvre que l'on souhaite. Il n'y a pas d'ordre précis ni chemin à suivre. La salle est légèrement obsurcie, les oeuvres elles sont bien éclairées. Au milieu de la salle se retrouve des fauteuils où l'on peut s'asseoir. Nous pouvons donc se diriger vers l'oeuvre librement puis, rendu à l'oeuvre, il est possible d'écouter les 3 vidéos expliquant le processus de création sur les moniteurs à l'aide des casques découte, ou bien de se diriger devant les écrans principaux pour écouter l'histoire que raconte Dayna2. Il n'y a aucune interaction à faire avec les vidéos à part mettre un casque aux moniteurs, les vidéos jouent en boucle.
+
+<br/>
+
+### Mon opinion sur cetet oeuvre
+Personnelement, j'ai ressentie plusieurs choses en rentrant dans cette expérience qu'est l'oeuvre de Dayna MCleod. J'ai fait le tour du spectre des émotions, j'ai pu ressentir de la joie comme de la tristesse. Cette expérience nous fait réaliser que si un dispositif composé d'intelligence artificielle partage un comportement humain avec nous, les humains, nous sommes aptes à avoir de l'empathie envers le dispositif comme si il serait lui-même humain.
 
 
 <br/>
