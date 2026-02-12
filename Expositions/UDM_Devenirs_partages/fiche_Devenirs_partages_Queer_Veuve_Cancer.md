@@ -14,9 +14,24 @@ Le jeudi 29 janvier 2026, j'ai visité l'exposition temporaire ***Devenirs parta
 <br/>
 
 ## Queer. Veuve. Cancer.
-***Queer. Veuve. Cancer.*** est une oeuvre créé par l'artiste de performance et vidéaste montréalaise ***Dayna MCleod***, aussi connue sous le nom ***Daynarama***. Son installation multimédia a vue officiellement jour le 10 janvier 2026 à la galerie. 
 
+![Image de l'oeuvre](Media/queer_veuve_cancer_ecrans.png) 
+> Écrans principals de l'installation de l'oeuvre *Queer. Veuve. Cancer.*.
+<br/>
+
+***Queer. Veuve. Cancer.*** est une oeuvre créé par l'artiste de performance et vidéaste montréalaise ***Dayna MCleod***, aussi connue sous le nom ***Daynarama***. Cette installation multimédia a officiellement vue le jour le 10 janvier 2026 à la galerie. Dans cette oeuvre, Dayna exprime son ressenti face à la perte de sa femme MJ suite à un cancer du pancréas, et parle de son propre diagnostic d'un cancer du colon. Son histoire est partagé au monde par 3 sosies d'elle créé par l'intelligence artificielle. Ces 3 Dayna vont documenter son deuil, sa chimiothérapie et l'importance de la comunauté Queer dans les dures épreuves qu'elle a traversée à l'oral, tout en ayant une gestuelle très semblable à l'humain. Ces sosie font ressentir toutes sortes d'émotions au spectateur.
+<br/><br/>
+Comme dit Dayna dans la description de son oeuvre sur son site web : ***"can we experience empathy through AI?"***
 
 ![Cartel de l'oeuvre](Media/queer_veuve_cancer_cartel_fiche_1.png) ![Cartel de l'oeuvre](Media/queer_veuve_cancer_cartel_fiche_2.png)
-La vidéo explicative ***Talkback*** fait partie du projet et est disponnible ci-joint:
+> Cartel de l'oeuvre *Queer. Veuve. Cancer.* explicant celle-ci.
+<br/>
+
+Pour plus d'informations, la vidéo explicative ***Talkback*** fait partie du projet et est disponnible ci-joint :
 <https://vimeo.com/1136945289?fl=pl&fe=sh>
+
+Voici le lien vers la page de présentation de l'installation ***Queer. Veuve. Cancer.*** :
+<https://daynarama.com/queer-widow-cancer/>
+
+Pour plus d'informations sur l'artiste, voici sa Bio sur son site web :
+<https://daynarama.com/bio/>
