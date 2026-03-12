@@ -24,7 +24,8 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 ***Mawlukhotine - Travaillons tous ensemble*** est une installation multimédia qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. Le cartel de cette installation est plutôt une introduction des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'installation. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo des Membres de l'équipe du musée, et autres collaborateurs, qui ont travaillés sur l'exposition.
 <br/> <br/>
 
-Comme dit plus haut, l'installation contient 14 projets vidéos portant sur l'esprit de collaboration et de création au sein de la communauté autochtone. Voici une courte description de chacune d'entre elles, ainsi que leur(s) créateur(s) (si cité dans la vidéo):
+Comme dit plus haut, l'installation contient 14 projets vidéos portant sur l'esprit de collaboration et de création au sein de la communauté autochtone. Voici une courte description de chacune d'entre elles:
+
 <br/>
 
 ### 1. L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique - (01:15)
@@ -32,34 +33,107 @@ Comme dit plus haut, l'installation contient 14 projets vidéos portant sur l'es
 
 Étant l'auteur du livre ***L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique***, Gleb Raygorodetsky parle de la place de la communauté autochtone dans la préservation de la planète, et comme quoi il faudrait se tourner vers eux pour mettre en place des techniques de préservation efficace. 
 
-#### 2.
+<br/>
 
-#### 3.
+### 2. « C’est le Québec qui est né dans mon pays! » - Carnet de rencontres, d’Ani Kuni à Kiuna - (1:23)
+> **Par Emanuelle Dufour**
 
-#### 4.
+Étant l’autrice et dessinatrice de la bande dessinée ***C’est le Québec qui est né dans mon pays! - Carnet de rencontres, d’Ani Kuni à Kiuna***, Emanuelle Dufour parle de la présence du système colonial européen dans les territoires autochtone. À l’aide d’une cinquantaine de témoignages autochtones et allochtones, elle parle aussi de nombreux enjeux systémiques présents au Québec.
 
-#### 5.
+<br/>
 
-#### 6.
+### 3. Café de La Maison Ronde: Une initiative de l’itinéraire - (1:18)
+> **Par Marilou Maisonneuve (Métis) et Amanda Labillois (Mi'gmaq)**
 
-#### 7.
+Marilou Maisonneuve, chargée de projet du programme ***La Maison Ronde***, parle du concept derrière cette initiative servant à favoriser les personnes autochtones dans notre société actuelle.
 
-#### 8.
+Amanda Labillois parle de son expérience au sein de la communauté de ***La Maison Ronde*** et comment cette initiative a été bénéfique pour elle à court et à long terme.
 
-#### 9.
+<br/>
 
-#### 10.
+### 4. Le frêne noir: La vannerie traditionnelle wabanaki - (1:19)
+> **Par Luc Gauthier-Nolett (Wabanaki), David Bernard (Wabanaki) et Laurence Boudreault**
 
-#### 11.
+Luc Gauthier-Nolett est batteur de frêne et utilise ce bois robuste pour la création d’objets, comme des paniers. 
 
-#### 12.
+David Bernard est agent de recherche pour un projet portant sur la conservation du frêne noir qui se fait de plus en plus rare.
 
-#### 13.
+Laurence Boudreault est étudiante et rechercheuse à l’université Laval et travaille sur le projet de conservation du frêne noir, un projet que ne peut pas être possible sans la collaboration du peuple Wabanaki sur le terrain.
 
-#### 14.
+<br/>
+
+### 5. Oser s’en parler - (1:13)
+> **Par Charlotte Côté**
+
+***Oser s’en parler*** est un podcast créé par Charlotte Côté. Ce projet sert à mettre de l’avant les voix autochtones sous plusieurs angles et thèmes comme le racisme ou le privilège blanc. Le but est de sensibiliser le peuple canadien sur les enjeux vécus par les membres des communautés autochtone et allochtone.
+
+<br/>
+
+### 6. Le projet Petapan: De nouvelles pratiques scolaires en milieu urbain - (1:36)
+> **Par Émilie Lavoie et Kate Bacon (Innu)**
+
+***Le projet Petapan*** est une initiative mise en place dans certaines écoles primaires du Québec servant à accueillir des élèves autochtones dans des écoles en milieu urbain pour faciliter leur intégration dans la société, tout en apprenant aux enfants de l’école la vie en communauté.
+
+Émilie Lavoie et Kate Bacon sont des enseignantes dans des écoles ayant ce projet mis en place, et parle de leurs expériences et de ce que le projet apporte à la vie de tous.
+
+<br/>
+
+### 7. Résilience Montréal - (1:40)
+> **Par Nakuset (Croe)**
+
+Nakuset est la directrice générale du refuge pour sans-abris ***Résilience Montréal***. Ce refuge accueille majoritairement des personnes faisant partie de la communauté autochtone. Ils ont comme but d’aider toute personne de la communauté avec leurs besoins de base, comme la nourriture et l’hygiène, ainsi qu’à les accompagner dans la vie de tous les jours.
+
+<br/>
+
+### 8. Les sentinelles du Nunavik: Initiative de science participative - (1:35)
+> **Par Amélie Grégoire-Taillefer et Sean Nashak (Inuk)**
+
+Amélie Grégoire-Taillefer est coordinatrice du projet ***Les sentinelles du Nunavik***, un programme de recherche et d’éducation disponible pour les communautés autochtones du nord du Québec. Ce programme sert à sensibiliser les jeunes à la préservation et l’identification d’êtres vivants, comme les insectes. 
+
+Sean Nashak parle brièvement de son expérience au sein du programme.
+
+<br/>
+
+### 9. Tapiskwan: Valorisation et diffusion de l’art atikamekw - (1:34)
+> **Par Karine Awashish (Atikamekw Nehirowisiwok)**
+
+Le projet ***Tapiskwan*** est un programme servant à mettre en valeur et à partager le patrimoine visuel et créatif des communautés autochtones avec des des personnes de tous âge. Karine Awashish, co-fondatrice de la Coop Nitaskinan, prend part à se programme et le décrit comme un lieu de transmission de valeurs et de connaissances pour les générations futures.
+
+<br/>
+
+### 10. Fondation Tekkie-Mamu: Transmission de la mémoire par réalité virtuelle - (1:19)
+> **Par Amalia Nanu et Steve Desbiens (Innu)**
+
+La fondation ***Tekkie-Mamu*** sert à aux jeunes autochtones de toucher à divers professions en lien avec la technologie, comme la programmation ou la conception web. Amalia Nanu et Steve Desbiens, tout les deux fondateurs de l’organisme, veulent aider les jeunes à rentrer sur le marché du travail avec des professions au goût du jour.
+
+<br//>
+
+### 11. Imalirijiit: Ceux qui étudient l’eau - (1:33)
+> **Par José Gérin-Lajoie, Hilda Snowball (Inuk), Jeannie Annanack (Inuk) et Eleonora Bacon (Innu)**
+
+Le ***Camp Imalirijiit*** est un projet mis en place pour donner envie aux jeunes autochtones de s’intéresser à la science. Les quatres responsables du projet décrivent celui-ci comme étant un moyen de recueillir des données sur l’état des cours d’eau du québec tout en éducant des jeunes sur le sujet et sur les professions derrière la recherche scientifique.
+
+<br/>
+
+### 12. Tshakapesh: Théatre de marionnettes et d’ombres - (1:36)
+> **Par Jean St-Onge (Innu) et Pierre Robitaille**
+
+Jean St-Onge, marionnettiste de profession, veut partager l’histoire de sa langue et de son peuple par un spectacle de marionnettes et d’ombres mettant en scène le conte ***Tshakapesh***. Pierre Robitaille vient l’aider dans ce projet au niveau de la production, pour ensuite présenter le tout devant un public.
 
 Pour visionner les vidéos de l'installation, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
 <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/saiakwanaktakweniione-prendre-la-place-qui-nous-revient/16-projet-wampum/>
+
+<br/>
+
+### 13. Uhu: Labos nomades - (1:29)
+> **Par Andréa Gonzalez et Stéphane Nepton (Wabanaki, Innu)**
+
+Le ***projet Uhu*** a pour but de mettre en place des ateliers pour les jeunes venant de communautés autochtones, visant à faire découvrir l’art numérique. Les fondateurs du projet, Andréa Gonzalez et Stéphane Nepton, veulent transmettre la culture autochtone aux jeune, la persévérance scolaire et bien plus à travers des activités interactives.
+
+<br/>
+
+### 14. Le projet Wampum: Pour un renouveau des relations avec les Premiers Peuples au Québec - (1:37)
+> **Par Sarah Clément, Audrey Pinsonneault et Alexandra Beaulieu**
 
 
 
