@@ -4,12 +4,15 @@
 > **Par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé**
 
 <br/>
+
 **Installation en cours (ou finale)**
 
 <br/>
+
 **Schéma de mise en espace**
 
 <br/>
+
 **Mon ressenti**
 
 
@@ -17,12 +20,15 @@
 > **Par Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger**
 
 <br/>
+
 **Installation en cours (ou finale)**
 
 <br/>
+
 **Schéma de mise en espace**
 
 <br/>
+
 **Mon ressenti**
 
 
@@ -30,12 +36,15 @@
 > **Par Amira Tounekti et Kristy Moussally**
 
 <br/>
+
 **Installation en cours (ou finale)**
 
 <br/>
+
 **Schéma de mise en espace**
 
 <br/>
+
 **Mon ressenti**
 
 
@@ -43,12 +52,15 @@
 > **Par Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour**
 
 <br/>
+
 **Installation en cours (ou finale)**
 
 <br/>
+
 **Schéma de mise en espace**
 
 <br/>
+
 **Mon ressenti**
 
 
@@ -56,12 +68,15 @@
 > **Par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif**
 
 <br/>
+
 **Installation en cours (ou finale)**
 
 <br/>
+
 **Schéma de mise en espace**
 
 <br/>
+
 **Mon ressenti**
 
 
@@ -69,11 +84,14 @@
 > **Par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi**
 
 <br/>
+
 **Installation en cours (ou finale)**
 
 <br/>
+
 **Schéma de mise en espace**
 
 <br/>
+
 **Mon ressenti**
 
