@@ -11,7 +11,7 @@
 ## Introduction
 Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***. Cette exposition intérieure est exposée au musée McCord Stewart à Montréal depuis septembre 2021. Divisé en 4 parties, cette exposition est un assemblage de témoignages du peuple autochtone au Québec, allant de leur mode de vie à leurs souffrances. L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** fait partie de la dernière partie de l'exposition qui s'intitule: ***Saiakwanak Takwe’ní:io’ne’ - Prendre la place qui nous revient***.
 
-![Moi devant le musée McCord Stewart]()
+![Moi devant le musée McCord Stewart](media/mawlukhotine_autoportrait.jpg)
 > Moi devant l'entrée du musée McCord Stewart.
 
 <br/>
@@ -21,7 +21,7 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 
 ## Mawlukhotine - Travaillons tous ensemble
 
-![Image de l'oeuvre]()
+![Image de l'oeuvre](media/mawlukhotine_oeuvre.jpg)
 > Vue globale de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
 
 <br/>
@@ -30,7 +30,7 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 
 <br/> 
 
-![Cartel de l'oeuvre]()
+![Cartel de l'oeuvre](media/mawlukhotine_texte_presentation.jpg)
 > Cartel/texte de présentation de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
 
 <br/>
@@ -160,7 +160,7 @@ Pour visionner les vidéos de l'oeuvre, vous pouvez les retrouver sur le microsi
 
 ## Mise en exposition
 
-![Image de l'oeuvre]()
+![Image de l'oeuvre](media/mawlukhotine_oeuvre.jpg)
 > Vue d'ensemble de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
 
 <br/>
@@ -174,7 +174,7 @@ L'installation de cette oeuvre est à but contemplatif et à but interactif. Ave
 
 ## Mise en espace
 
-![Image de l'oeuvre]() 
+![Image de l'oeuvre](media/mawlukhotine_oeuvre_vue_gauche.jpg) 
 >Image de l'oeuvre de côté.
 
 <br/>
@@ -183,7 +183,7 @@ L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatri
 
 <br/>
 
-![Croquis de l'oeuvre](media/mawlukhotine_croquis_installation.jpg)
+![Croquis de l'oeuvre](croquis/mawlukhotine_croquis_installation.jpg)
 > Croquis de l'oeuvre fait suite à la visite de l'exposition.
 
 <br/>
@@ -298,4 +298,4 @@ Microsite de l'exposition contenant tout le contenu multimédia disponnible lors
 Courte présentation de l'exposition par Radio-Canada: <https://ici.radio-canada.ca/experiences/fr/grand-montreal/evenements/906-radio-canada-presente-l-exposition-voix-autochtones-d-aujourd-hui/>
 
 Panneau de crédits: Membres de l'équipe du musée et collaborateurs ayant travaillés sur l'exposition: 
-![Équipe ayant travaillé sur l'exposition]()
+![Équipe ayant travaillé sur l'exposition](media/mawlukhotine_credit.jpg)
