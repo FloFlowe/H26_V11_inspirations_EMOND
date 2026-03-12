@@ -15,6 +15,7 @@
 
 **Mon ressenti**
 
+<br/>
 
 ## 2. Terminal
 > **Par Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger**
@@ -31,6 +32,7 @@
 
 **Mon ressenti**
 
+<br/>
 
 ## 3. Océan Rouge
 > **Par Amira Tounekti et Kristy Moussally**
@@ -47,6 +49,7 @@
 
 **Mon ressenti**
 
+<br/>
 
 ## 4. Symbiose
 > **Par Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour**
@@ -63,6 +66,7 @@
 
 **Mon ressenti**
 
+<br/>
 
 ## 5. Quand les yeux se croisent
 > **Par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif**
@@ -79,6 +83,7 @@
 
 **Mon ressenti**
 
+<br/>
 
 ## 6. Mission Décollage
 > **Par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi**
