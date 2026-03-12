@@ -283,7 +283,7 @@ J'ai (Florence Emond) photographié toutes les images de l'exposition et dessin�
 
 <br/>
 
-J'ai utilisé les ressources ci-joint pour enrichir ma documentation: 
+J'ai utilisé les ressources ci-jointes pour enrichir ma documentation: 
 
 Page de l'exposition sur le site du musée McCord Stewart: <https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/>
  
