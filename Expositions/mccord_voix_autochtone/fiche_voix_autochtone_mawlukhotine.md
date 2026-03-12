@@ -1,12 +1,15 @@
-# Documentation de l'installation: Mawlukhotine - Travaillons tous ensemble
+# Documentation de l'oeuvre: Mawlukhotine - Travaillons tous ensemble
 
 ![affiche de l'exposition]()
 > Affiche de l'exposition ***Mawlukhotine - Travaillons tous ensemble***, installé au musée McCord Stewart.
 
 <br/>
 
+
+
+
 ## Introduction
-Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***. Cette exposition intérieure est exposée au musée McCord Stewart à Montréal depuis septembre 2021. Divisé en 4 parties, cette exposition est un assemblage de témoignages du peuple autochtone au Québec, allant de leur mode de vie à leurs souffrances. L'installation ***Mawlukhotine - Travaillons tous ensemble*** fait partie de la dernière partie de l'exposition qui s'intitule: ***Saiakwanak Takwe’ní:io’ne’ - Prendre la place qui nous revient***.
+Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***. Cette exposition intérieure est exposée au musée McCord Stewart à Montréal depuis septembre 2021. Divisé en 4 parties, cette exposition est un assemblage de témoignages du peuple autochtone au Québec, allant de leur mode de vie à leurs souffrances. L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** fait partie de la dernière partie de l'exposition qui s'intitule: ***Saiakwanak Takwe’ní:io’ne’ - Prendre la place qui nous revient***.
 
 ![Moi devant le musée McCord Stewart]()
 > Moi devant l'entrée du musée McCord Stewart.
@@ -15,16 +18,25 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 
 
 
+
 ## Mawlukhotine - Travaillons tous ensemble
 
 ![Image de l'oeuvre]()
-> Vue globale de l'installation de ***Mawlukhotine - Travaillons tous ensemble***
+> Vue globale de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+
 <br/>
 
-***Mawlukhotine - Travaillons tous ensemble*** est une installation multimédia qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. Le cartel de cette installation est plutôt une introduction des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'installation. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo des Membres de l'équipe du musée, et autres collaborateurs, qui ont travaillés sur l'exposition.
-<br/> <br/>
+***Mawlukhotine - Travaillons tous ensemble*** est une oeuvre qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. On y retrouve majoritairement des présentation de projets créatif, scientifique ou social expliqué par leurs créateurs et autres personnes ayant pris part aux projets. Le cartel de cette oeuvre est plutôt un court texte de présentation des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'oeuvre. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo du panneau de crédits.
 
-Comme dit plus haut, l'installation contient 14 projets vidéos portant sur l'esprit de collaboration et de création au sein de la communauté autochtone. Voici une courte description de chacune d'entre elles:
+<br/> 
+
+![Cartel de l'oeuvre]()
+> Cartel/texte de présentation de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+
+<br/>
+
+
+Comme dit plus haut, l'oeuvre contient 14 projets vidéos différents. Toutes font moins de 2 minutes. Voici une courte description de chacune des vidéos:
 
 <br/>
 
@@ -106,7 +118,7 @@ Le projet ***Tapiskwan*** est un programme servant à mettre en valeur et à par
 
 La fondation ***Tekkie-Mamu*** sert à aux jeunes autochtones de toucher à divers professions en lien avec la technologie, comme la programmation ou la conception web. Amalia Nanu et Steve Desbiens, tout les deux fondateurs de l’organisme, veulent aider les jeunes à rentrer sur le marché du travail avec des professions au goût du jour.
 
-<br//>
+<br/>
 
 ### 11. Imalirijiit: Ceux qui étudient l’eau - (1:33)
 > **Par José Gérin-Lajoie, Hilda Snowball (Inuk), Jeannie Annanack (Inuk) et Eleonora Bacon (Innu)**
@@ -120,9 +132,6 @@ Le ***Camp Imalirijiit*** est un projet mis en place pour donner envie aux jeune
 
 Jean St-Onge, marionnettiste de profession, veut partager l’histoire de sa langue et de son peuple par un spectacle de marionnettes et d’ombres mettant en scène le conte ***Tshakapesh***. Pierre Robitaille vient l’aider dans ce projet au niveau de la production, pour ensuite présenter le tout devant un public.
 
-Pour visionner les vidéos de l'installation, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
-<https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/saiakwanaktakweniione-prendre-la-place-qui-nous-revient/16-projet-wampum/>
-
 <br/>
 
 ### 13. Uhu: Labos nomades - (1:29)
@@ -135,21 +144,73 @@ Le ***projet Uhu*** a pour but de mettre en place des ateliers pour les jeunes v
 ### 14. Le projet Wampum: Pour un renouveau des relations avec les Premiers Peuples au Québec - (1:37)
 > **Par Sarah Clément, Audrey Pinsonneault et Alexandra Beaulieu**
 
+***Le projet Wampum*** est un projet mis en place pour réunir et tisser des liens entres les membres de la communauté autochtone à travers des événements et activités. Les 3 fondatrices du projet décrivent ***Le projet WamPum*** comme une initiative de rapprochement et de partage entre les communautés où tout les participants mettent un peu de soi dans les activités. 
+
+<br/>
+
+Pour visionner les vidéos de l'oeuvre, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
+<https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/saiakwanaktakweniione-prendre-la-place-qui-nous-revient/16-projet-wampum/>
+
+<br/>
+
+
 
 
 ## Mise en exposition
+
+![Image de l'oeuvre]()
+> Vue d'ensemble de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+
+<br/>
+
+L'installation de cette oeuvre est à but contemplatif et à but interactif. Avec ses 14 écrans, chaque vidéo est assignée un écran. Une à six vidéos jouent à la fois, pendant ce temps, les autre écrans affichent un motif représentant des feuilles d'arbres en mouvement. Le motif de feuille rajoute un aspect organique à l'installation multimédia et, à la fois, rapelle bien la communauté autochtone. Lors de l'écoute des vidéos, il est nécessaire de se déplacer devant l'installation pour utiliser les divers téléphones mis à disposition. Aussi, seulement le texte de présentation est éclairé, les seules autres sources de lumières dans l'installation sont les écrans elles-même et cela rajoute une certaine immersion lorsque l'on écoute les vidéos.
+
+<br/>
+
+
+
 
 ## Mise en espace
 
+![Image de l'oeuvre]() 
+>Image de l'oeuvre de côté.
+
+<br/>
+
+L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Ces poutres sont fixées au mur par
+
+![Croquis de l'oeuvre]()
+> Croquis de l'oeuvre fait suite à la visite de l'exposition
+
+<br/>
+
+
+
+
 ## Composants techniques
 
-## Mise en exposition
+
+
+
+## Éléments nécessaires à la mise en exposition
+
+
+
 
 ## Expérience vécue
 
+
+
+
 ## Posture du visiteur
 
-## Mon opinion sur l'installation
+
+
+
+## Mon opinion sur l'oeuvre
+
+
+
 
 ## Références
 
@@ -162,7 +223,7 @@ J'ai utilisé les sites ci-bas pour enrichir ma documentation:
 Page de l'exposition sur le site du musée McCord Stewart: <https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/>
  
 Microsite de l'exposition contenant tout le contenu multimédia disponnible lors de la visite de l'exposition: <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/ᐁᐧᐊᒄ-ᐁᔨᐦᑎᔮᐦᒡ-voila-ce-que-nous-sommes/>
-> J'ai consulté la page de l'installation que j'ai documenté ci-haut.
+> J'ai consulté la page de l'oeuvre que j'ai documenté ci-haut.
 
 Courte présentation de l'exposition par Radio-Canada: <https://ici.radio-canada.ca/experiences/fr/grand-montreal/evenements/906-radio-canada-presente-l-exposition-voix-autochtones-d-aujourd-hui/>
 
