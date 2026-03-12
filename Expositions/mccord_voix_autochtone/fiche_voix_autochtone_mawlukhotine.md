@@ -262,11 +262,6 @@ Si on explore l'exposition dans l'ordre suggéré, la première partie est compo
 
 <br/>
 
-![Croquis de l'exposition]() 
-> Croquis du parcour de l'Exposition.
-
-<br/>
-
 ### Mon opinion sur l'oeuvre
 J'ai apprécié le contenu présenté à travers cette oeuvre. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques à la communauté autochtone et allochtone du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
 
