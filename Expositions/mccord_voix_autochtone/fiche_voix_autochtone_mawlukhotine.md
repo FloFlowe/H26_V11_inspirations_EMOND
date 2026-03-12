@@ -21,8 +21,45 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 > Vue globale de l'installation de ***Mawlukhotine - Travaillons tous ensemble***
 <br/>
 
-***Mawlukhotine - Travaillons tous ensemble*** est une installation multimédia qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. Le cartel de cette installation est plutôt une introduction des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'installation. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. J'ai ajouté une photo des Membres de l'équipe du musée, et autres collaborateurs,qui ont travailler sur l'exposition dans les références au bas de la fiche.
+***Mawlukhotine - Travaillons tous ensemble*** est une installation multimédia qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. Le cartel de cette installation est plutôt une introduction des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'installation. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo des Membres de l'équipe du musée, et autres collaborateurs, qui ont travaillés sur l'exposition.
+<br/> <br/>
 
+Comme dit plus haut, l'installation contient 14 projets vidéos portant sur l'esprit de collaboration et de création au sein de la communauté autochtone. Voici une courte description de chacune d'entre elles, ainsi que leur(s) créateur(s) (si cité dans la vidéo):
+<br/>
+
+### 1. L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique - (01:15)
+> **Par Gleb Raygorodetsky**
+
+Étant l'auteur du livre ***L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique***, Gleb Raygorodetsky parle de la place de la communauté autochtone dans la préservation de la planète, et comme quoi il faudrait se tourner vers eux pour mettre en place des techniques de préservation efficace. 
+
+#### 2.
+
+#### 3.
+
+#### 4.
+
+#### 5.
+
+#### 6.
+
+#### 7.
+
+#### 8.
+
+#### 9.
+
+#### 10.
+
+#### 11.
+
+#### 12.
+
+#### 13.
+
+#### 14.
+
+Pour visionner les vidéos de l'installation, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
+<https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/saiakwanaktakweniione-prendre-la-place-qui-nous-revient/16-projet-wampum/>
 
 
 
@@ -54,3 +91,6 @@ Microsite de l'exposition contenant tout le contenu multimédia disponnible lors
 > J'ai consulté la page de l'installation que j'ai documenté ci-haut.
 
 Courte présentation de l'exposition par Radio-Canada: <https://ici.radio-canada.ca/experiences/fr/grand-montreal/evenements/906-radio-canada-presente-l-exposition-voix-autochtones-d-aujourd-hui/>
+
+Membres de l'équipe du musée et collaborateurs ayant travaillés sur l'exposition: 
+![Équipe ayant travaillé sur l'exposition]()
