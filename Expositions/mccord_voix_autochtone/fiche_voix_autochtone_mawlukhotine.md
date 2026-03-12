@@ -21,6 +21,8 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 > Vue globale de l'installation de ***Mawlukhotine - Travaillons tous ensemble***
 <br/>
 
+***Mawlukhotine - Travaillons tous ensemble*** est une installation multimédia qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. 
+
 
 
 
