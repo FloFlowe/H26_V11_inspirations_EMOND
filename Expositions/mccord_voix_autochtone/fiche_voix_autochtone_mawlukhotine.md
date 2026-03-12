@@ -1,6 +1,6 @@
 # Documentation de l'oeuvre: Mawlukhotine - Travaillons tous ensemble
 
-![affiche de l'exposition]()
+![affiche de l'exposition](media/mawlukhotine_affiche.jpg)
 > Affiche de l'exposition ***Mawlukhotine - Travaillons tous ensemble***, installé au musée McCord Stewart.
 
 <br/>
@@ -183,7 +183,7 @@ L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatri
 
 <br/>
 
-![Croquis de l'oeuvre]()
+![Croquis de l'oeuvre](media/mawlukhotine_croquis_installation.jpg)
 > Croquis de l'oeuvre fait suite à la visite de l'exposition.
 
 <br/>
