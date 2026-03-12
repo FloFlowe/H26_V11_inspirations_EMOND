@@ -148,6 +148,8 @@ Le ***projet Uhu*** a pour but de mettre en place des ateliers pour les jeunes v
 
 <br/>
 
+<br/>
+
 Pour visionner les vidéos de l'oeuvre, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
 <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/saiakwanaktakweniione-prendre-la-place-qui-nous-revient/16-projet-wampum/>
 
@@ -177,10 +179,12 @@ L'installation de cette oeuvre est à but contemplatif et à but interactif. Ave
 
 <br/>
 
-L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Ces poutres sont fixées au mur par
+L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Des bras de métal permettent aux poutres d'être fixées aux murs entourant l'installation et un câble de métal fixé à l'une des poutres du plafond et aux poutres blanches soutient aussi le poids de l'installation. Sur les trois poutres blanches sont installé un total de 14 écrans d'environ 10 pouces. Sur la poutre du bas est installé 6 téléphones servant de hauts parleurs pour les vidéos. À l'arrière de chacun des écrans se retrouve une boite blanche dans lequel se retrouve les connections et autre matériel nécessaire au bon fonctionnement de l'installation. Il est possible de voir des câbles hdmi allant des écrans aux boites. Certains fils sont aussi attaché aux poutres pour que l'installation soit propre à l'oeil. Aucun ordinateur ou dispositif permettant de faire fonctionner l'installation est visible et cela me fait croire que des fils vont de l'oeuvre à une autre pièce, où l'on pourrait retrouver un ordinateur, par les bras de métal qui soutiennent le tout. Les vidéos sur les écrans semblent jouer dans un ordre prédéfinis. Suite à la lecture des 14 vidéos, les écrans affichent le motif de feuille pendant un certain temps, puis les vidéos recommencent tranquillement à jouer.
+
+<br/>
 
 ![Croquis de l'oeuvre]()
-> Croquis de l'oeuvre fait suite à la visite de l'exposition
+> Croquis de l'oeuvre fait suite à la visite de l'exposition.
 
 <br/>
 
@@ -188,11 +192,63 @@ L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatri
 
 
 ## Composants techniques
+Voici les composants de l'installation apercevables lors de ma visite:
+
+<br/>
+
+**Strucuture:**
+- Trois poutres de métal incurvées.
+- Bras de métal qui permettent de soutenir l'installation.
+
+<br/>
+
+**Interactivité:**
+- 14 écrans qui permettent la présentation des vidéos.
+- Six hauts-parleurs sous forme de téléphones qui permettent l'écoute des vidéos.
+
+<br/>
+
+**Câbles:**
+- Minimum de 14 câbles hdmi.
+- Minimum de 14 câbles d'alimentation pour les écrans.
+- Câbles audios qui connectent les téléphones aux écrans.
+- Câbles qui relient l'oeuvre à un ordinateur qui fait fonctionner le tout.
+- Tout autres câbles en tout genre.
+
+<br/>
+
+La structure de l'installation est plutôt complexe et ne semble pas se désassembler facilement. Lors d'un possible transport, il serait préférable de bien protéger la structure, le matériel et les écrans car tout cela est assez fragile.
+
+<br/>
 
 
 
 
 ## Éléments nécessaires à la mise en exposition
+Le musée a utilisé ce matériel pour la mise en place de cette oeuvre: 
+
+<br/>
+
+**Cartel/texte de présentation:**
+- Une lumière légèrement chaude qui éclaire seulement le texte de présentation.
+
+<br/>
+
+**Strucuture:**
+- Un câble de métal qui soutient le poids de l'installation à partir du plafond.
+- Les poutres qui permettent de soutenir le matériel au plafond.
+
+<br/>
+
+**Autre:**
+- Câbles en tout genre.
+- Du matériel pour attacher et ranger correctement les câbles.
+
+<br/>
+
+Il est possible que d'autres éléments soient fournis par le musée.
+
+<br/>
 
 
 
