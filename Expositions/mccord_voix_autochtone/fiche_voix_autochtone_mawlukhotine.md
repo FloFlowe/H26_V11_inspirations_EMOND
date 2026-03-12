@@ -1,7 +1,7 @@
 # Documentation de l'oeuvre: Mawlukhotine - Travaillons tous ensemble
 
 ![affiche de l'exposition](media/mawlukhotine_affiche.jpg)
-> Affiche de l'exposition ***Mawlukhotine - Travaillons tous ensemble***, installé au musée McCord Stewart.
+> Affiche de l'exposition ***Mawlukhotine - Travaillons tous ensemble***, installé au musée McCord Stewart. Image provenant de la page web de l'Exposition.
 
 <br/>
 
@@ -255,6 +255,11 @@ Il est possible que d'autres éléments soient fournis par le musée.
 
 ## Expérience vécue
 
+![Vue d'ensemble de la pièce de l'oeuvre](media/mawlukhotine_affiche.jpg)
+> Vue d'ensemble de la pièce de l'oeuvre. Image provenant de la page web de l'Exposition.
+
+<br/>
+
 ### Posture du visiteur
 L'entrée principale de l'exposition se trouve à la première partie de celle-ci. Un certain ordre chronologique est mis en place puisque l'exposition est divisée en quatre parties. Naturellement, les visiteurs vont découvrir l'exposition de la première à la quatrième partie. Toutefois, il n'est pas défendu de rentrer dans l'exposition par sa sortie à la quatrième partie. Rentrer de ce côté permet de voir l'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** en premier donc il est possible que cette oeuvre soit l'introduction à l'exposition pour certains. 
 
@@ -265,11 +270,7 @@ Si on explore l'exposition dans l'ordre suggéré, la première partie est compo
 ### Mon opinion sur l'oeuvre
 J'ai apprécié le contenu présenté à travers cette oeuvre. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques à la communauté autochtone et allochtone du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
 
-<br/>
-
 Comme J'ai dit plus haut, j'aime que cette installation peut sensibiliser la population sous différents aspects. Grâce à une oeuvre de ce genre, je suis persuadé qu'au moins une personne s'est demandé: "Comment puis-je aider ma communauté et les communautés qui m'entourent?". J'espère que certaines personnes ont décidé de prendre action et de s'investir dans un OBNL, de faire des dons ou bien de partager avec leur proches les ressources présentées dans cette oeuvre qui mérite d'être mise de l'avant. 
-
-<br/>
 
 L'un des aspects que j'ai moins aimé dans l'oeuvre est la qualité de production de certaines des vidéos présentées. Certaines vidéos sont sous forme de documentaire, avec des images, des vidéos et de l'audio de bonne qualité, tandis que d'autres sont majoritairement composé de vidéos prises à la webcam avec une qualité sonore beaucoup plus basse. Je trouve que la qualité de certaines vidéos auraient pu être amélioré avec l'utilisation d'un micro de meilleure qualité. Aussi, certaines vidéos ont des coupures de montage qui pourraient être améliorés au niveaux de l'audio. malgré tout, ces points ne gâchent pas l'expérience générale qu'offre l'oeuvre.
 
@@ -279,7 +280,7 @@ L'un des aspects que j'ai moins aimé dans l'oeuvre est la qualité de productio
 
 ## Références
 
-J'ai (Florence Emond) photographié toutes les images de l'exposition et dessiné tous les croquis présents dans cette fiche. 
+J'ai (Florence Emond) photographié toutes les images de l'exposition et dessiné tous les croquis présents dans cette fiche, à moins spécifié autrement dans la légende de l'image. 
 
 <br/>
 
