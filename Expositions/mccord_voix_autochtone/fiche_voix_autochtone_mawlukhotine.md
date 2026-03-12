@@ -255,8 +255,8 @@ Il est possible que d'autres éléments soient fournis par le musée.
 
 ## Expérience vécue
 
-![Vue d'ensemble de la pièce de l'oeuvre](media/mawlukhotine_affiche.jpg)
-> Vue d'ensemble de la pièce de l'oeuvre. Image provenant de la page web de l'Exposition.
+![Vue d'ensemble de la pièce de l'oeuvre](media/mawlukhotine_oeuvre_vue_ensemble.jpg)
+> Vue d'ensemble de la pièce où se trouve l'oeuvre. Image provenant de la page web de l'Exposition.
 
 <br/>
 
