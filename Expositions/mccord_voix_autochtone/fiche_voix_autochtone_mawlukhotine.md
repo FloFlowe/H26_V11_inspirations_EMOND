@@ -255,26 +255,40 @@ Il est possible que d'autres éléments soient fournis par le musée.
 
 ## Expérience vécue
 
+### Posture du visiteur
+L'entrée principale de l'exposition se trouve à la première partie de celle-ci. Un certain ordre chronologique est mis en place puisque l'exposition est divisée en quatre parties. Naturellement, les visiteurs vont découvrir l'exposition de la première à la quatrième partie. Toutefois, il n'est pas défendu de rentrer dans l'exposition par sa sortie à la quatrième partie. Rentrer de ce côté permet de voir l'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** en premier donc il est possible que cette oeuvre soit l'introduction à l'exposition pour certains. 
 
+Si on explore l'exposition dans l'ordre suggéré, la première partie est composé de plusieurs projections murale directement à l'entrée. La deuxième partie est un assemblage de textes, de vidéos, de photographies et d'objets en exposition éparpillés dans une même pièce. La troisième partie est semblabe à la partie précédente, mais intègre aussi de la projection murale et se retrouve dans une pièce à l'atmosphère et à l'éclairage plus sombre. Finalement, la quatrième partie est une conclusion aux autres parties, sous forme de vidéos et d'objets en exposition.
 
+<br/>
 
-## Posture du visiteur
+![Croquis de l'exposition]() 
+> Croquis du parcour de l'Exposition.
 
+<br/>
 
+### Mon opinion sur l'oeuvre
+J'ai apprécié le contenu présenté à travers cette oeuvre. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques à la communauté autochtone et allochtone du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
 
+<br/>
 
-## Mon opinion sur l'oeuvre
+Comme J'ai dit plus haut, j'aime que cette installation peut sensibiliser la population sous différents aspects. Grâce à une oeuvre de ce genre, je suis persuadé qu'au moins une personne s'est demandé: "Comment puis-je aider ma communauté et les communautés qui m'entourent?". J'espère que certaines personnes ont décidé de prendre action et de s'investir dans un OBNL, de faire des dons ou bien de partager avec leur proches les ressources présentées dans cette oeuvre qui mérite d'être mise de l'avant. 
 
+<br/>
+
+L'un des aspects que j'ai moins aimé dans l'oeuvre est la qualité de production de certaines des vidéos présentées. Il y a un certain contraste
+
+<br/>
 
 
 
 ## Références
 
-J'ai (Florence Emond) photographié toutes les images de l'exposition et dessiné tous les croquis présents dans cette fiche. <br/><br/>
+J'ai (Florence Emond) photographié toutes les images de l'exposition et dessiné tous les croquis présents dans cette fiche. 
 
-J'ai utilisé les sites ci-bas pour enrichir ma documentation: 
 <br/>
-<br/>
+
+J'ai utilisé les ressources ci-joint pour enrichir ma documentation: 
 
 Page de l'exposition sur le site du musée McCord Stewart: <https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/>
  
@@ -283,5 +297,5 @@ Microsite de l'exposition contenant tout le contenu multimédia disponnible lors
 
 Courte présentation de l'exposition par Radio-Canada: <https://ici.radio-canada.ca/experiences/fr/grand-montreal/evenements/906-radio-canada-presente-l-exposition-voix-autochtones-d-aujourd-hui/>
 
-Membres de l'équipe du musée et collaborateurs ayant travaillés sur l'exposition: 
+Panneau de crédits: Membres de l'équipe du musée et collaborateurs ayant travaillés sur l'exposition: 
 ![Équipe ayant travaillé sur l'exposition]()
