@@ -190,7 +190,7 @@ L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatri
 
 
 
-
+ 
 ## Composants techniques
 Voici les composants de l'installation apercevables lors de ma visite:
 
