@@ -42,10 +42,13 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 
 J'ai (Florence Emond) photographié toutes les images de l'exposition et dessiné tous les croquis présents dans cette fiche. <br/><br/>
 
-J'ai utilisé les sites ci-bas pour enrichir ma documentation: <br/><br/>
+J'ai utilisé les sites ci-bas pour enrichir ma documentation: 
+<br/>
+<br/>
 
 Page de l'exposition sur le site du musée McCord Stewart: <https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/>
-
+ 
 Microsite de l'exposition contenant tout le contenu multimédia disponnible lors de la visite de l'exposition: <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/ᐁᐧᐊᒄ-ᐁᔨᐦᑎᔮᐦᒡ-voila-ce-que-nous-sommes/>
+> J'ai consulté la page de l'installation que j'ai documenté ci-haut.
 
 Courte présentation de l'exposition par Radio-Canada: <https://ici.radio-canada.ca/experiences/fr/grand-montreal/evenements/906-radio-canada-presente-l-exposition-voix-autochtones-d-aujourd-hui/>
