@@ -41,6 +41,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 <br/>
 
 **Mon ressenti**
+À première vue, ce projet ne semblait pas être quelque chose de très poussé. À la première visite, La borne d'Arcade était installé à l'extérieur du studio et je pensais qu'il y avait donc que 5 projets de finissants. Après avoirjoué à leur borne et après avoir compris que seulement 2 personnes avaient rapidement mis en place ce projet, j'ai eu un bon ressenti de ce projet. Leur jeu permet de commencer au point A, puis de ce donner le défis de le continuer jusqu'à la fin, au point B. Leur jeu a donc un aspect addictif qui donner envie de continuer à jouer. Je trouve que leur projet a un beau message, qui est de protéger l'environnement en nettoyant les océans.
 
 <br/>
 
