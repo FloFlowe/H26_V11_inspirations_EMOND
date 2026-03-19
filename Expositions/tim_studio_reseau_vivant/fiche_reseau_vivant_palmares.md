@@ -63,6 +63,23 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 
 <br/>
 
+## 6. Mission Décollage
+> **Par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi**
+
+<br/>
+
+**Installation en cours (ou finale)**
+
+<br/>
+
+**Schéma de mise en espace**
+
+<br/>
+
+**Mon ressenti**
+
+<br/>
+
 ## 5. Quand les yeux se croisent
 > **Par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif**
 
@@ -79,19 +96,4 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 **Mon ressenti**
 
 <br/>
-
-## 6. Mission Décollage
-> **Par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi**
-
-<br/>
-
-**Installation en cours (ou finale)**
-
-<br/>
-
-**Schéma de mise en espace**
-
-<br/>
-
-**Mon ressenti**
 
