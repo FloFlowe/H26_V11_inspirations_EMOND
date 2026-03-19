@@ -9,17 +9,19 @@
 
 <br/>
 
+
+
+
 ## 2. Terminal
 > **Par Émeryk Bélisle, Elie Daher, Ting Yung Lu Terry, Dana Saavedra-Torrano et Mégane Ranger**
 
 <br/>
 
-**Installation en cours (ou finale)**
-![Image de l'installation du projet](url)
+**Installation en cours (ou finale) et Schéma de mise en espace**
 
 <br/>
 
-**Schéma de mise en espace**
+![Image de l'installation du projet](url)
 ![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_terminal.png)
 
 <br/>
@@ -29,17 +31,19 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 
 <br/>
 
+
+
+
 ## 3. Océan Rouge
 > **Par Amira Tounekti et Kristy Moussally**
 
 <br/>
 
-**Installation en cours (ou finale)**
-![Image de l'installation du projet](url)
+**Installation en cours (ou finale) et Schéma de mise en espace**
 
 <br/>
 
-**Schéma de mise en espace**
+![Image de l'installation du projet](url)
 ![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_ocean_rouge.png)
 
 <br/>
@@ -49,17 +53,19 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 
 <br/>
 
+
+
+
 ## 4. Symbiose
 > **Par Yannick Chamberland, Benjamin Ferland, Ryan Dufault et Walid Cheour**
 
 <br/>
 
-**Installation en cours (ou finale)**
-![Image de l'installation du projet](url)
+**Installation en cours (ou finale) et Schéma de mise en espace**
 
 <br/>
 
-**Schéma de mise en espace**
+![Image de l'installation du projet](url)
 ![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_symbiose.png)
 
 <br/>
@@ -69,17 +75,19 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 
 <br/>
 
+
+
+
 ## 5. Mission Décollage
 > **Par Ahmed Kaissoumi, Radhouane Kordan, Justin Montpetit, Thearylou Lach et Jad Saloumi**
 
 <br/>
 
-**Installation en cours (ou finale)**
-![Image de l'installation du projet](url)
+**Installation en cours (ou finale) et Schéma de mise en espace**
 
 <br/>
 
-**Schéma de mise en espace**
+![Image de l'installation du projet](url)
 ![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_mission_decollage.png)
 
 <br/>
@@ -88,17 +96,19 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 
 <br/>
 
+
+
+
 ## 6. Quand les yeux se croisent
 > **Par Edelwyn Ledru, Félix Lavoie, Jade Hébert, Manel Yaya et Patricia Nassif**
 
 <br/>
 
-**Installation en cours (ou finale)**
-![Image de l'installation du projet](url)
+**Installation en cours (ou finale) et Schéma de mise en espace**
 
 <br/>
 
-**Schéma de mise en espace**
+![Image de l'installation du projet](url)
 ![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_yeux_croisent.png)
 
 <br/>
