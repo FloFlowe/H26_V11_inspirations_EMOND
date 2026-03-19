@@ -4,7 +4,7 @@
 > **Par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé**
 
 Voir la fiche de l'installation
-<tim_studio_reseau_vivant/fiche_reseau_vivant_arbre_en_face.md>
+<https://github.com/FloFlowe/H26_V11_inspirations_EMOND/blob/main/Expositions/tim_studio_reseau_vivant/fiche_reseau_vivant_arbre_en_face.md>
 
 <br/>
 
