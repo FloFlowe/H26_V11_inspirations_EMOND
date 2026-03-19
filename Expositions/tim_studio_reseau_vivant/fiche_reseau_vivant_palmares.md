@@ -93,7 +93,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 <br/>
 
 **Mon ressenti**
-Ce projet prend beaucoup de place dans le studio donc il n'est pas facile à manquer. Lorsque j'ai vue le jeu en action pour la première fois, certains aspects 
+Ce projet prend beaucoup de place dans le studio donc il n'est pas facile à manquer. Lorsque j'ai vue le jeu en action pour la première fois, je trouvais que la cohésion entre certains éléments du jeu n'étaient pas optimales. Tout de même, ce projet est complexe et l'équipe semble avoir bien travaillé dessus. L'installation finale tant qu'à elle était plus réeussie selon moi, donc voir le jeu plus complet en action fut une bonne surprise. Les fonctionnalités à l'intérieur fonctionnent bien et apporte à la collaboration entre joueurs.
 
 <br/>
 
