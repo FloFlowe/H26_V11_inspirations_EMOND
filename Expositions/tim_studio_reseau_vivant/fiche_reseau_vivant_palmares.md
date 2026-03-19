@@ -93,6 +93,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 <br/>
 
 **Mon ressenti**
+Ce projet prend beaucoup de place dans le studio donc il n'est pas facile à manquer. Lorsque j'ai vue le jeu en action pour la première fois, certains aspects 
 
 <br/>
 
