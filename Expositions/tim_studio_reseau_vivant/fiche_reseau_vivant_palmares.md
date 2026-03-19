@@ -15,10 +15,12 @@
 <br/>
 
 **Installation en cours (ou finale)**
+![Image de l'installation du projet](url)
 
 <br/>
 
 **Schéma de mise en espace**
+![Image du schéma de mise en espace du projet()
 
 <br/>
 
@@ -33,6 +35,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 <br/>
 
 **Installation en cours (ou finale)**
+![Image de l'installation du projet](url)
 
 <br/>
 
@@ -51,6 +54,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 <br/>
 
 **Installation en cours (ou finale)**
+![Image de l'installation du projet](url)
 
 <br/>
 
@@ -69,6 +73,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 <br/>
 
 **Installation en cours (ou finale)**
+![Image de l'installation du projet](url)
 
 <br/>
 
@@ -86,6 +91,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 <br/>
 
 **Installation en cours (ou finale)**
+![Image de l'installation du projet](url)
 
 <br/>
 
