@@ -20,7 +20,7 @@
 <br/>
 
 **Schéma de mise en espace**
-![Image du schéma de mise en espace du projet()
+![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_terminal.png)
 
 <br/>
 
@@ -40,6 +40,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 <br/>
 
 **Schéma de mise en espace**
+![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_ocean_rouge.png)
 
 <br/>
 
@@ -59,6 +60,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 <br/>
 
 **Schéma de mise en espace**
+![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_symbiose.png)
 
 <br/>
 
@@ -78,6 +80,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 <br/>
 
 **Schéma de mise en espace**
+![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_mission_decollage.png)
 
 <br/>
 
@@ -96,6 +99,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 <br/>
 
 **Schéma de mise en espace**
+![Image du schéma de mise en espace du projet](media/reseau_vivant_schema_yeux_croisent.png)
 
 <br/>
 
