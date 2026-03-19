@@ -3,17 +3,8 @@
 ## 1. Arbre en Face
 > **Par Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé**
 
-<br/>
-
-**Installation en cours (ou finale)**
-
-<br/>
-
-**Schéma de mise en espace**
-
-<br/>
-
-**Mon ressenti**
+Voir la fiche de l'installation
+<>
 
 <br/>
 
