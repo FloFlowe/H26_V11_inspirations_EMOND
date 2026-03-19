@@ -59,6 +59,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 <br/>
 
 **Mon ressenti**
+En regardant rapidement cette installation, la première chose que j'ai remarqué fut la modélisation 3D de l'interface interactive. Je trouve que certains des éléments sont très bien fabriqués, tandis que d'autres l'étaient moins. Je trouve qu'il manquait une certaine cohésion mais rien de majeur. En regardant certaines personnes jouer, j'ai beaucoup apprécié les technologies utilisées dans le projet car l'interactivité entre les boutons, les objets et la confection de potions semblait amusant, tout en étant complexe. DAns l'installation finale, j'ai beaucoup aimé les podiums qui soutenaient les éléments de jeu, les précédents étaient moins bien fabriqués.
 
 <br/>
 
