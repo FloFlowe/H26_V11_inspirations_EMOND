@@ -22,7 +22,8 @@
 
 <br/>
 
-**Mon ressenti**
+**Mon ressenti** 
+Avant d'essayer l'installation, je trouvais que le projet avait une belle identité et fluidité artistique. Dès le premier coup d'oeil, ce projet met en place une belle atmosphère de jeu avec les poufs en demi  cercle et les effets lumineux vert au mur. En essayent le jeu, je trouve que celui-ci a le potentiel d'être très amusant à jouer à plusieur. Avec de nombreux niveaux à disposition et des fonctionalités qui sont encore à découvrir, je trouve que ce projet a un bon futur et a de très bonnes fondations pour un projet final. L'un des membres de l'équipe, Émeryk Bélisle, m'a parlé de son projet avec passion, on voit qu'il y met du temps pour le perfectionner.
 
 <br/>
 
