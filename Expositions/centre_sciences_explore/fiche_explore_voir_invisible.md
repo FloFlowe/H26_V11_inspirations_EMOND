@@ -25,7 +25,9 @@ J'ai (Florence Emond) photographié toutes les images de l'exposition et dessin�
 
 <br/>
 
-J'ai utilisé les ressources ci-jointes pour enrichir ma documentation: 
+**J'ai utilisé les ressources ci-jointes pour enrichir ma documentation:** 
+
+<br/>
 
 Page de l'exposition sur le site web du Centre des Sciences de Montréal: <https://www.centredessciencesdemontreal.com/exposition-permanente/explore?_gl=1*e4y926*_gcl_au*NDg1MDQ4ODUuMTc3NTc1NzgwNA..*_ga*MjMyNzAxMjAuMTc3NTc1NzgwNA..*_ga_H22CRNZ3Q1*czE3NzU3NTc4MDQkbzEkZzEkdDE3NzU3NTc5NjUkajU5JGwwJGgw>
 
