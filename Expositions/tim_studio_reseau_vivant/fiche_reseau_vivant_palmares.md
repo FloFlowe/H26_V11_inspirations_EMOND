@@ -115,7 +115,7 @@ Ce projet prend beaucoup de place dans le studio donc il n'est pas facile à man
 <br/>
 
 **Mon ressenti**
-i can pull the steering wheel.
+Ce dispositif est installé au millieu du studio et je trouve que lorsque l'on y rentre, on l'apperçoit directement. lorsque j'ai essayé le dispositif, celui-ci ne fonctionnait pas correctement. Son but premier est d'afficher sur des écrans des images de notre visage pris en temps réel. Cela ne fonctionnait pas donc je n'ai pas 
 
 <br/>
 
