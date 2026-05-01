@@ -26,6 +26,7 @@ Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des p
 
 <br/>
 
+***Arbre en Face*** est un dispositif multimédia interactif 
 
 
 
