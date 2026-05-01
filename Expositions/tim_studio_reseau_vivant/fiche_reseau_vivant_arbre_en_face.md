@@ -9,10 +9,10 @@
 
 
 ## Introduction
-Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des projets finaux des étudiants en Technique d'intégration Multimédia du collège. La visite du 24 février, durant le trou à l'horaire, consistait à observer et à interagir pour la première fois avec les 6 projets finaux, non terminés en cette date. La visite était réservée aux étudiants du cours *d'oeuvres et dispositifs multimédia en exposition* pour notre travail de documentation. Ensuite, la visite du 17 mars, durant le trou à l'horaire, fût le moment où l'on pouvais découvrir les projets dans leur stade final, prêt au vernissage le soir même. Dans les 6 projets finaux des étudiants de troisième année, j'ai choisit de documenter le dispositif ***Arbre en Face***, que l'on pouvait observer dès notre entrée dans le studio.
+Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des projets finaux des étudiants en Technique d'intégration Multimédia du collège. Cette exposition temporaire a été mise en place dans le grand studio de la technique et a ouvert ses portes le 16 mars, puis s'est terminé le 20 mars. La visite du 24 février, durant le trou à l'horaire, consistait à observer et à interagir pour la première fois avec les 6 projets finaux, non terminés en cette date. La visite était réservée aux étudiants du cours *d'oeuvres et dispositifs multimédia en exposition* pour notre travail de documentation. Ensuite, la visite du 17 mars, durant le trou à l'horaire, fût le moment où l'on pouvais découvrir les projets dans leur stade final, prêt au vernissage le soir même. Dans les 6 projets finaux des étudiants de troisième année, j'ai choisit de documenter le dispositif ***Arbre en Face***, que l'on pouvait observer dès notre entrée dans le studio.
 
 ![Moi devant l'entrée du grand studio]()
-> Moi devant l'entrée du grand studio, où se situe l'exposition.
+> Moi devant l'entrée du grand studio, où se situait l'exposition.
 
 <br/>
 
@@ -21,54 +21,36 @@ Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des p
 
 ## Arbre en Face
 
+![Logo du projet]()
+> Logo du dispositif ***Arbre en Face***
+
+<br/>
+
+***Arbre en Face*** est un dispositif multimédia interactif créé par **Alexandre Gendron, Mikael Arseneau, Mathieu Willett, Matis Ghariani et Rafael Angon Dubé**. Ce projet rejoint la nature et l'humain dans une expérience immersive. En interagissant avec la toile sur laquelle est projetée une plaine, il est possible de faire apparaître tout un tas de surprises, comme des arbres, qui sont ornés de fleurs à l'allure plutôt humaine.
+
+<br/>
+
 ![Image du dispositif]()
 > Vue globale du dispositif ***Arbre en Face***
 
 <br/>
 
-***Arbre en Face*** est un dispositif multimédia interactif 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-***Mawlukhotine - Travaillons tous ensemble*** est une oeuvre qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. On y retrouve majoritairement des présentation de projets créatif, scientifique ou social expliqué par leurs créateurs et autres personnes ayant pris part aux projets. Le cartel de cette oeuvre est plutôt un court texte de présentation des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'oeuvre. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo du panneau de crédits.
-
-<br/> 
-
-![Cartel de l'oeuvre](media/mawlukhotine_texte_presentation.jpg)
-> Cartel/texte de présentation de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+![Cartel du dispositif]()
+> texte de présentation du dispositif ***Arbre en Face***
 
 <br/>
-
-
-
-<br/>
-
-
 
 
 
 
 ## Mise en exposition
 
-![Image de l'oeuvre](media/mawlukhotine_oeuvre.jpg)
-> Vue d'ensemble de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+![Image du dispositif]()
+> Vue d'ensemble du dispositif ***Arbre en Face***
 
 <br/>
 
-L'installation de cette oeuvre est à but contemplatif et à but interactif. Avec ses 14 écrans, chaque vidéo est assignée un écran. Une à six vidéos jouent à la fois, pendant ce temps, les autre écrans affichent un motif représentant des feuilles d'arbres en mouvement. Le motif de feuille rajoute un aspect organique à l'installation multimédia et, à la fois, rapelle bien la communauté autochtone. Lors de l'écoute des vidéos, il est nécessaire de se déplacer devant l'installation pour utiliser les divers téléphones mis à disposition. Aussi, seulement le texte de présentation est éclairé, les seules autres sources de lumières dans l'installation sont les écrans elles-même et cela rajoute une certaine immersion lorsque l'on écoute les vidéos.
+L'installation de cette oeuvre est à but contemplatif et interactif. Avec sa toile mesurant trois mètres de longueur et 2 mètres de hauteur, il est possible d'Avoir une bonne vue sur le dispositif d'un peu partout dans la salle d'exposition. Exposé dans le noir, ce dispositif est éclairé seulement par la lumière que projette le projecteur à l'arrière de la toile. Ce dit projecteur est caché à l'arrière de la toile, avec le reste du matériel, excepté l'un des ordinateurs qui fait fonctionner le tout. Il est possible d'interragir avec le dispositif en touchant des éléments sur la toile, comme des nuages, ou bien en glissant notre doigts de haut en bas pour faire croître des arbres. Au sommet des arbres, nous pouvons retrouver les visages de certains visiteurs qui ont été pris en photo durant la visite. 
 
 <br/>
 
@@ -77,10 +59,12 @@ L'installation de cette oeuvre est à but contemplatif et à but interactif. Ave
 
 ## Mise en espace
 
-![Image de l'oeuvre](media/mawlukhotine_oeuvre_vue_gauche.jpg) 
+![Image du dispositif](media/mawlukhotine_oeuvre_vue_gauche.jpg) 
 >Image de l'oeuvre de côté.
 
 <br/>
+
+Ces photos se retrouvent ensuite sur le haut des arbres, dans un cadre fleur. L'équipe d'***Arbre en Face*** a collaboré avec l'équipe du dispositif ***Quand les yeux se croisent***, qui ont eux aussi des caméras prennant en photo le visage des visiteurs, pour se partager entre eux leur base de données d'images de visages.
 
 L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Des bras de métal permettent aux poutres d'être fixées aux murs entourant l'installation et un câble de métal fixé à l'une des poutres du plafond et aux poutres blanches soutient aussi le poids de l'installation. Sur les trois poutres blanches sont installé un total de 14 écrans d'environ 10 pouces. Sur la poutre du bas est installé 6 téléphones servant de hauts parleurs pour les vidéos. À l'arrière de chacun des écrans se retrouve une boite blanche dans lequel se retrouve les connections et autre matériel nécessaire au bon fonctionnement de l'installation. Il est possible de voir des câbles hdmi allant des écrans aux boites. Certains fils sont aussi attaché aux poutres pour que l'installation soit propre à l'oeil. Aucun ordinateur ou dispositif permettant de faire fonctionner l'installation est visible et cela me fait croire que des fils vont de l'oeuvre à une autre pièce, où l'on pourrait retrouver un ordinateur, par les bras de métal qui soutiennent le tout. Les vidéos sur les écrans semblent jouer dans un ordre prédéfinis. Suite à la lecture des 14 vidéos, les écrans affichent le motif de feuille pendant un certain temps, puis les vidéos recommencent tranquillement à jouer.
 
@@ -189,15 +173,8 @@ J'ai (Florence Emond) photographié toutes les images de l'exposition et dessin�
 
 J'ai utilisé les ressources ci-jointes pour enrichir ma documentation: 
 
-Page de l'exposition sur le site du musée McCord Stewart: <https://www.musee-mccord-stewart.ca/fr/expositions/voix-autochtones-aujourdhui/>
+Site web de l'exposition des finissants: <https://tim-montmorency.com/2026/#/>
  
-Microsite de l'exposition contenant tout le contenu multimédia disponnible lors de la visite de l'exposition: <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/ᐁᐧᐊᒄ-ᐁᔨᐦᑎᔮᐦᒡ-voila-ce-que-nous-sommes/>
-> J'ai consulté la page de l'oeuvre que j'ai documenté ci-haut.
+Site web du dispositif Arbre en Face: <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/ᐁᐧᐊᒄ-ᐁᔨᐦᑎᔮᐦᒡ-voila-ce-que-nous-sommes/>
 
-Courte présentation de l'exposition par Radio-Canada: <https://ici.radio-canada.ca/experiences/fr/grand-montreal/evenements/906-radio-canada-presente-l-exposition-voix-autochtones-d-aujourd-hui/>
-
-Panneau de crédits: Membres de l'équipe du musée et collaborateurs ayant travaillés sur l'exposition: 
-![Équipe ayant travaillé sur l'exposition](media/mawlukhotine_credit.jpg)
-
-
-
+Vidéo de démonstration du projet: <https://www.youtube.com/watch?v=Qbv81vm1Bek>
