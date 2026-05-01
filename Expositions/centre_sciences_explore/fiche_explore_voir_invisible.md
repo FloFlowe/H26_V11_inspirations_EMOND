@@ -100,7 +100,7 @@ Il est possible que d'autres éléments soient fournis par le centre.
 
 ## Expérience vécue
 
-![Vue d'ensemble de l'exposition]()
+![Vue d'ensemble de l'exposition](media/explore_vue_exposition.png)
 > Vue d'ensemble de l'Exposition depuis l'entrée de celle-ci.
 
 <br/>
