@@ -30,10 +30,7 @@ Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La scie
 
 <br/> 
 
-![texte de présentation](media/explore_cartel.png)
-> Texte de présentation du dispositif ***Voir l'invisible***
 
-<br/> 
 
 
 ## Mise en exposition
@@ -41,6 +38,11 @@ Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La scie
 L'installation de ce dispositif est à but contemplatif et à but interactif. Avec ses 3 écrans, il est possible de découvrir à quoi l'on ressemble dans le noir avec la caméra ultraviolet à la gauche, à découvrir les sources de chaleur les plus puissante de notre corps avec la caméra infrarouge à la droite et puis de comparer le tout avec l'aperçu de la caméra régulière au centre. L'expérience générale de ce dispositif est de se promener devant les caméras, d'analyser ce que l'on peut voir aux écrans.
 
 <br/>
+
+![texte de présentation](media/explore_cartel.png)
+> Texte de présentation du dispositif ***Voir l'invisible***
+
+<br/> 
 
 
 
@@ -107,9 +109,8 @@ Le Centre des Sciences de Montréal a utilisé ce matériel pour la mise en plac
 - Un point de lumière accroché à une poutre au plafond.
 
 **Sol**
--Autocollant au sol pour le texte d'accompagnement.
+- Autocollants au sol pour le texte d'accompagnement.
   
-
 <br/>
 
 Il est possible que d'autres éléments soient fournis par le Centre des Sciences.
@@ -127,18 +128,16 @@ Il est possible que d'autres éléments soient fournis par le Centre des Science
 <br/>
 
 ### Posture du visiteur
-L'entrée principale de l'exposition se trouve à la première partie de celle-ci. Un certain ordre chronologique est mis en place puisque l'exposition est divisée en quatre parties. Naturellement, les visiteurs vont découvrir l'exposition de la première à la quatrième partie. Toutefois, il n'est pas défendu de rentrer dans l'exposition par sa sortie à la quatrième partie. Rentrer de ce côté permet de voir l'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** en premier donc il est possible que cette oeuvre soit l'introduction à l'exposition pour certains. 
-
-Si on explore l'exposition dans l'ordre suggéré, la première partie est composé de plusieurs projections murale directement à l'entrée. La deuxième partie est un assemblage de textes, de vidéos, de photographies et d'objets en exposition éparpillés dans une même pièce. La troisième partie est semblabe à la partie précédente, mais intègre aussi de la projection murale et se retrouve dans une pièce à l'atmosphère et à l'éclairage plus sombre. Finalement, la quatrième partie est une conclusion aux autres parties, sous forme de vidéos et d'objets en exposition.
+L'exposition ***Explore*** n'a pas d'ordre à suivre suggéré. Il est possible d'y rentrer par 2 côtés puisque l'exposition est séparé en 2 sections: Une section avec des dispositifs multimédias et une sections avec des dispositifs plus techniques. Au fond de la pièce se trouves les dispositifs multimédia, donc ***Voir l'invisible*** se trouve au fond de l'exposition. Lorsque l'on rentre pas le kadélioscope géant, nous arrivont directement dans le coins du dispositif en question. Avec tout pleins de dispositifs ludiques à découvrir, c'est très plaisant de se promener dans l'exposition librement, de retourner à de multiples reprises aux dispositifs qui nous intéressent le plus. Un enfant pourrait y passer des heures!
 
 <br/>
 
 ### Mon opinion sur l'oeuvre
-J'ai apprécié le contenu présenté à travers cette oeuvre. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques à la communauté autochtone et allochtone du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
+J'aime bien cette oeuvre car elle permet de prendre conscience de ce qui nous entoure, ou bien de ce qui est en nous. Je trouve que des installations de ce type peuvent faire rire et permettent de retourner en enfance. L'installation permet de comprendre la chaeur corporelle simplement. Le Centre des Sciences de Montréal sont bon pour faire comprendre des notions scientifiques avec une touche de magie ou de façon ludique.
 
-Comme J'ai dit plus haut, j'aime que cette installation peut sensibiliser la population sous différents aspects. Grâce à une oeuvre de ce genre, je suis persuadé qu'au moins une personne s'est demandé: "Comment puis-je aider ma communauté et les communautés qui m'entourent?". J'espère que certaines personnes ont décidé de prendre action et de s'investir dans un OBNL, de faire des dons ou bien de partager avec leur proches les ressources présentées dans cette oeuvre qui mérite d'être mise de l'avant. 
+J'aime bien que du texte soit inscrit au sol. Après tout, l'exposition est axé sur la découverte chez les plus jeunes et le texte peu en aider certains à rester plus longtemps devant les écrans et à essayer de comprendre davantage les différences entre chacune d'entre elle.
 
-L'un des aspects que j'ai moins aimé dans l'oeuvre est la qualité de production de certaines des vidéos présentées. Certaines vidéos sont sous forme de documentaire, avec des images, des vidéos et de l'audio de bonne qualité, tandis que d'autres sont majoritairement composé de vidéos prises à la webcam avec une qualité sonore beaucoup plus basse. Je trouve que la qualité de certaines vidéos auraient pu être amélioré avec l'utilisation d'un micro de meilleure qualité. Aussi, certaines vidéos ont des coupures de montage qui pourraient être améliorés au niveaux de l'audio. malgré tout, ces points ne gâchent pas l'expérience générale qu'offre l'oeuvre.
+J'ai un peu moins aimé la caméra ultraviolet, je l'ai un peu délaissé lorsque j'ai essayé le dispositif. Je trouve que le résultat de la caméra ne donnait pas vraiment d'informations en plus que la caméra régulière. La seule différence majeure est que la caméra ne capte pas la couleur ou traite la couleur différement. Je pense qu'un autre type de caméra pourrait être utilisé pour essayer quelque chose de nouveau qui fonctionnera peut-être mieux.
 
 <br/>
 
