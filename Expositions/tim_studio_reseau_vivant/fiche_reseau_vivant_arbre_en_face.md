@@ -69,8 +69,8 @@ Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En ren
 
 <br/>
 
-![Croquis du dispositif]()
-> Croquis du dispositif fait suite à la visite de l'exposition.
+![Croquis du dispositif](croquis/reseau_vivant_arbre_3d_devant.png) ![Croquis du dispositif](croquis/reseau_vivant_arbre_3d_haut.png) ![Croquis du dispositif](croquis/reseau_vivant_arbre_croquis_cote.png) ![Croquis du dispositif](croquis/reseau_vivant_arbre_croquis_devant.png)
+> Croquis du dispositif. Images provenant du site web du projet.
 
 <br/>
 
