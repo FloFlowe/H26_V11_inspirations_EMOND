@@ -59,19 +59,19 @@ L'installation de cette oeuvre est à but contemplatif et interactif. Avec sa to
 
 ## Mise en espace
 
-![Image du dispositif](media/mawlukhotine_oeuvre_vue_gauche.jpg) 
->Image de l'oeuvre de côté.
-
-<br/>
-
 Ces photos se retrouvent ensuite sur le haut des arbres, dans un cadre fleur. L'équipe d'***Arbre en Face*** a collaboré avec l'équipe du dispositif ***Quand les yeux se croisent***, qui ont eux aussi des caméras prennant en photo le visage des visiteurs, pour se partager entre eux leur base de données d'images de visages.
 
-L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Des bras de métal permettent aux poutres d'être fixées aux murs entourant l'installation et un câble de métal fixé à l'une des poutres du plafond et aux poutres blanches soutient aussi le poids de l'installation. Sur les trois poutres blanches sont installé un total de 14 écrans d'environ 10 pouces. Sur la poutre du bas est installé 6 téléphones servant de hauts parleurs pour les vidéos. À l'arrière de chacun des écrans se retrouve une boite blanche dans lequel se retrouve les connections et autre matériel nécessaire au bon fonctionnement de l'installation. Il est possible de voir des câbles hdmi allant des écrans aux boites. Certains fils sont aussi attaché aux poutres pour que l'installation soit propre à l'oeil. Aucun ordinateur ou dispositif permettant de faire fonctionner l'installation est visible et cela me fait croire que des fils vont de l'oeuvre à une autre pièce, où l'on pourrait retrouver un ordinateur, par les bras de métal qui soutiennent le tout. Les vidéos sur les écrans semblent jouer dans un ordre prédéfinis. Suite à la lecture des 14 vidéos, les écrans affichent le motif de feuille pendant un certain temps, puis les vidéos recommencent tranquillement à jouer.
+Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En rentrant dans le grand studio, nous sommes accueillit par un objectif de caméra qui prend en photo notre visage. Celle-ci est installé sur le côté de l'installation. En marchant quelques pas de plus, nous pouvons appercevoir de face la toile du dispositif. le cadre de la toile est composé de poutre de bois. La toile est ensuite accroché au cadre avec des pinces en plastique imprimés en 3D à cet effet. Le bois a été traité avec du vernis et de la peinture pour embelir le tout. Au dessus de la toile est installé un capteur LIDAR pour calculer les mouvements et actions des doigts sur la toile. À la gauche du dispositif se retrouve un ordinateur avec moniteur où il est possible pour les créateurs du projet de s'occuper de celui-ci en cas de problèmes. À l'arrière de la toile, caché de tous, se trouve le projecteur au sol, la caméra ainsi que son trépied, l'ordinateur Raspberry Pi, un transmetteur et un récepteur Cat6, ainsi qu'une multitude de câbles et de connecteurs notés ci-bas. Pour les effets sonores faisant parti du projet, deux haut-parleurs sont installés, eux aussi, à l'arrière de la toile sur des pieds à cet effet. Le projecteur diffuse un fond de plaine en continu, puis des informations en plus, comme des événements et la croissance d'arbres, vont faire leur apparition seulement avec l'interactivité des visiteurs. Lors de l'apparition d'éléments, des effets sonores peuvent être entendus. Lorsqu'un arbre a poussé, celui-ci reste pendant un cours moment puis disparait pour laisser sa place à un autre arbre et à un nouveau visage
 
 <br/>
 
-![Croquis de l'oeuvre](croquis/mawlukhotine_croquis_installation.jpg)
-> Croquis de l'oeuvre fait suite à la visite de l'exposition.
+![Croquis du dispositif()
+> Croquis du dispositif fait suite à la visite de l'exposition.
+
+<br/>
+
+![Image du dispositif]() 
+>Image de l'arrière du dispositif ***Arbre en Face***
 
 <br/>
 
