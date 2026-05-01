@@ -11,7 +11,7 @@
 ## Introduction
 Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des projets finaux des étudiants en Technique d'intégration Multimédia du collège. Cette exposition temporaire a été mise en place dans le grand studio de la technique et a ouvert ses portes le 16 mars, puis s'est terminé le 20 mars. La visite du 24 février, durant le trou à l'horaire, consistait à observer et à interagir pour la première fois avec les 6 projets finaux, non terminés en cette date. La visite était réservée aux étudiants du cours *d'oeuvres et dispositifs multimédia en exposition* pour notre travail de documentation. Ensuite, la visite du 17 mars, durant le trou à l'horaire, fût le moment où l'on pouvais découvrir les projets dans leur stade final, prêt au vernissage le soir même. Dans les 6 projets finaux des étudiants de troisième année, j'ai choisit de documenter le dispositif ***Arbre en Face***, que l'on pouvait observer dès notre entrée dans le studio.
 
-![Moi devant l'entrée du grand studio]()
+![Moi devant l'entrée du grand studio](media/reseau_vivant_moi.png)
 > Moi devant l'entrée du grand studio, où se situait l'exposition.
 
 <br/>
@@ -21,7 +21,7 @@ Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des p
 
 ## Arbre en Face
 
-![Logo du projet]()
+![Logo du projet](media/reseau_vivant_arbre_logo.png)
 > Logo du dispositif ***Arbre en Face***. Image provenant de la page d'accueil du site web du projet ***Arbre en Face***.
 
 <br/>
@@ -30,12 +30,12 @@ Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des p
 
 <br/>
 
-![Image du dispositif]()
+![Image du dispositif](media/reseau_vivant_arbre_vue_ensemble.png)
 > Vue globale du dispositif ***Arbre en Face***
 
 <br/>
 
-![Cartel du dispositif]()
+![Cartel du dispositif](media/reseau_vivant_arbre_cartel.png)
 > texte de présentation du dispositif ***Arbre en Face***
 
 <br/>
@@ -45,8 +45,8 @@ Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des p
 
 ## Mise en exposition
 
-![Image du dispositif]()
-> Vue d'ensemble du dispositif ***Arbre en Face***
+![Image du dispositif](media/reseau_vivant_arbre_fleur.png) ![Image du dispositif](media/reseau_vivant_arbre_fleur_2.png)
+> Vue des arbres du dispositif ***Arbre en Face***
 
 <br/>
 
