@@ -115,7 +115,7 @@ Ce projet prend beaucoup de place dans le studio donc il n'est pas facile à man
 <br/>
 
 **Mon ressenti**
-Ce dispositif est installé au millieu du studio et je trouve que lorsque l'on y rentre, on l'apperçoit directement. lorsque j'ai essayé le dispositif, celui-ci ne fonctionnait pas correctement. Son but premier est d'afficher sur des écrans des images de notre visage pris en temps réel. Cela ne fonctionnait pas donc je n'ai pas 
+Ce dispositif est installé au millieu du studio et je trouve que lorsque l'on y rentre, on l'apperçoit directement. lorsque j'ai essayé le dispositif, celui-ci ne fonctionnait pas correctement. Son but premier est d'afficher sur des écrans des images de notre visage pris en temps réel. Cela ne fonctionnait pas donc je n'ai pas été en mesure de profiter de du dispositif à son maximum. Tout de même, j'ai apprécié l'idée puis je trouve que leur dispositif est très joli.
 
 <br/>
 
