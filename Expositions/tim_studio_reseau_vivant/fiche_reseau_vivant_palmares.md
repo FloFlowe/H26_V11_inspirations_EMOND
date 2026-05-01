@@ -17,7 +17,7 @@
 
 <br/>
 
-**Installation en cours (ou finale) et Schéma de mise en espace**
+**Installation finale et Schéma de mise en espace**
 
 <br/>
 
@@ -39,7 +39,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 
 <br/>
 
-**Installation en cours (ou finale) et Schéma de mise en espace**
+**Installation non définitive et Schéma de mise en espace**
 
 <br/>
 
@@ -61,7 +61,7 @@ Avant d'essayer l'installation, je trouvais que le projet avait une belle identi
 
 <br/>
 
-**Installation en cours (ou finale) et Schéma de mise en espace**
+**Installation finale et Schéma de mise en espace**
 
 <br/>
 
@@ -83,7 +83,7 @@ En regardant rapidement cette installation, la première chose que j'ai remarqu�
 
 <br/>
 
-**Installation en cours (ou finale) et Schéma de mise en espace**
+**Installation finale et Schéma de mise en espace**
 
 <br/>
 
@@ -105,7 +105,7 @@ Ce projet prend beaucoup de place dans le studio donc il n'est pas facile à man
 
 <br/>
 
-**Installation en cours (ou finale) et Schéma de mise en espace**
+**Installation finale et Schéma de mise en espace**
 
 <br/>
 
