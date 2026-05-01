@@ -74,8 +74,8 @@ Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En ren
 
 <br/>
 
-![Image du dispositif]() 
->Image de l'arrière du dispositif ***Arbre en Face***
+![Image du dispositif](media/reseau_vivant_arbre_installation.png) ![Image du dispositif](media/reseau_vivant_arbre_camera.png) 
+>Image de l'arrière du dispositif ***Arbre en Face*** et de la caméra
 
 <br/>
 
@@ -156,7 +156,7 @@ Il est possible que d'autres éléments ont été fournis par la technique.
 
 ## Expérience vécue
 
-![Vue d'ensemble du grand studio]()
+![Vue d'ensemble du grand studio](media/reseau_vivant_arbre_vue_studio.png)
 > Vue d'ensemble du grand studio.
 
 <br/>
