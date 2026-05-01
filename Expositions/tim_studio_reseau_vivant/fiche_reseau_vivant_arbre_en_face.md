@@ -22,7 +22,7 @@ Le mardi 24 février ainsi que le mardi 17 mars, j'ai visité l'exposition des p
 ## Arbre en Face
 
 ![Logo du projet]()
-> Logo du dispositif ***Arbre en Face***
+> Logo du dispositif ***Arbre en Face***. Image provenant de la page d'accueil du site web du projet ***Arbre en Face***.
 
 <br/>
 
@@ -54,12 +54,18 @@ L'installation de cette oeuvre est à but contemplatif et interactif. Avec sa to
 
 <br/>
 
+Pour en savoir plus, voici la vidéo démonstration de leur projet: <https://www.youtube.com/watch?v=Qbv81vm1Bek>
+
+<br/>
+
 
 
 
 ## Mise en espace
 
-Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En rentrant dans le grand studio, nous sommes accueillit par un objectif de caméra qui prend en photo notre visage. Celle-ci est installé sur le côté de l'installation. Ces photos se retrouvent ensuite sur le haut des arbres, dans un cadre fleur. L'équipe d'***Arbre en Face*** a collaboré avec l'équipe du dispositif ***Quand les yeux se croisent***, qui ont eux aussi des caméras prennant en photo le visage des visiteurs, pour se partager entre eux leur base de données d'images de visages. En marchant quelques pas de plus, nous pouvons appercevoir de face la toile du dispositif. le cadre de la toile est composé de poutre de bois. La toile est ensuite accroché au cadre avec des pinces en plastique imprimés en 3D à cet effet. Le bois a été traité avec du vernis et de la peinture pour embelir le tout. Au dessus de la toile est installé un capteur LIDAR pour calculer les mouvements et actions des doigts sur la toile. À la gauche du dispositif se retrouve un ordinateur avec moniteur où il est possible pour les créateurs du projet de s'occuper de celui-ci en cas de problèmes. À l'arrière de la toile, caché de tous, se trouve le projecteur au sol, la caméra ainsi que son trépied, l'ordinateur Raspberry Pi, un transmetteur et un récepteur Cat6, ainsi qu'une multitude de câbles et de connecteurs notés ci-bas. Pour les effets sonores faisant parti du projet, deux haut-parleurs sont installés, eux aussi, à l'arrière de la toile sur des pieds à cet effet. Le projecteur diffuse un fond de plaine en continu, puis des informations en plus, comme des événements et la croissance d'arbres, vont faire leur apparition seulement avec l'interactivité des visiteurs. Lors de l'apparition d'éléments, des effets sonores peuvent être entendus. Lorsqu'un arbre a poussé, celui-ci reste pendant un cours moment puis disparait pour laisser sa place à un autre arbre et à un nouveau visage
+Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En rentrant dans le grand studio, nous sommes accueillit par un objectif de caméra qui prend en photo notre visage. Celle-ci est installé sur le côté de l'installation. Ces photos se retrouvent ensuite sur le haut des arbres, dans un cadre fleur. L'équipe d'***Arbre en Face*** a collaboré avec l'équipe du dispositif ***Quand les yeux se croisent***, qui ont eux aussi des caméras prennant en photo le visage des visiteurs, pour se partager entre eux leur base de données d'images de visages. En marchant quelques pas de plus, nous pouvons appercevoir de face la toile du dispositif. le cadre de la toile est composé de poutre de bois. La toile est ensuite accroché au cadre avec des pinces en plastique imprimés en 3D à cet effet. Le bois a été traité avec du vernis et de la peinture pour embelir le tout. Au dessus de la toile est installé un capteur LIDAR pour calculer les mouvements et actions des doigts sur la toile. À la gauche du dispositif se retrouve un ordinateur avec moniteur où il est possible pour les créateurs du projet de s'occuper de celui-ci en cas de problèmes. 
+
+À l'arrière de la toile, caché de tous, se trouve le projecteur au sol, la caméra ainsi que son trépied, l'ordinateur Raspberry Pi, un transmetteur et un récepteur Cat6, ainsi qu'une multitude de câbles et de connecteurs notés ci-bas. Pour les effets sonores faisant parti du projet, deux haut-parleurs sont installés, eux aussi, à l'arrière de la toile sur des pieds à cet effet. Le projecteur diffuse un fond de plaine en continu, puis des informations en plus, comme des événements et la croissance d'arbres, vont faire leur apparition seulement avec l'interactivité des visiteurs. Lors de l'apparition d'éléments, des effets sonores peuvent être entendus. Lorsqu'un arbre a poussé, celui-ci reste pendant un cours moment puis disparait pour laisser sa place à un autre arbre et à un nouveau visage.
 
 <br/>
 
@@ -140,7 +146,7 @@ La technique TIM a mis en place ces éléments pour l'exposition du dispositif:
 
 <br/>
 
-Il est possible que d'autres éléments soient fournis par la technique que je n'ai pas remarqué ou qu'ils ne sont pas inscrit dans la liste d'équipement de l'équipe.
+Il est possible que d'autres éléments ont été fournis par la technique.
 > Liste d'équipement de l'équipe sur la page web technique du projet: <https://mammouths.github.io/projet/#/technique/>
 
 <br/>
@@ -150,24 +156,22 @@ Il est possible que d'autres éléments soient fournis par la technique que je n
 
 ## Expérience vécue
 
-![Vue d'ensemble de la pièce de l'oeuvre](media/mawlukhotine_oeuvre_vue_ensemble.jpg)
-> Vue d'ensemble de la pièce où se trouve l'oeuvre. Image provenant de la page web de l'Exposition.
+![Vue d'ensemble du grand studio]()
+> Vue d'ensemble du grand studio.
 
 <br/>
 
 ### Posture du visiteur
-L'entrée principale de l'exposition se trouve à la première partie de celle-ci. Un certain ordre chronologique est mis en place puisque l'exposition est divisée en quatre parties. Naturellement, les visiteurs vont découvrir l'exposition de la première à la quatrième partie. Toutefois, il n'est pas défendu de rentrer dans l'exposition par sa sortie à la quatrième partie. Rentrer de ce côté permet de voir l'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** en premier donc il est possible que cette oeuvre soit l'introduction à l'exposition pour certains. 
-
-Si on explore l'exposition dans l'ordre suggéré, la première partie est composé de plusieurs projections murale directement à l'entrée. La deuxième partie est un assemblage de textes, de vidéos, de photographies et d'objets en exposition éparpillés dans une même pièce. La troisième partie est semblabe à la partie précédente, mais intègre aussi de la projection murale et se retrouve dans une pièce à l'atmosphère et à l'éclairage plus sombre. Finalement, la quatrième partie est une conclusion aux autres parties, sous forme de vidéos et d'objets en exposition.
+L'exposition a une seule entrée, soit l'entrée du grand studio. Comme inscrit plus haut, ***Arbre en Face*** est visible dès l'entrée et fait face au centre du studio. L'exposition n'a pas d'ordre précis pour découvrir les dispositifs, donc les visiteurs peuvent se déplacer librement entre les projets. Un certain espace vide est présent devant la toile pour permettre l'interaction avec celle-ci et le déplacement. 
 
 <br/>
 
-### Mon opinion sur l'oeuvre
-J'ai apprécié le contenu présenté à travers cette oeuvre. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques à la communauté autochtone et allochtone du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
+### Mon opinion sur le dispositif
+J'ai bien aimé ce dispositif dès la première visite car son caractères loufoque et ses technologies plutôt impressionnantes et bien maîtrisées forment un bel ensemble. En visitant les projets des finnissants en TIM, je ne m'attendais pas à un projet avec une interactivité du genre. Lorsque je vois des installations de ce type en musée ou en vidéo, je trouve que maîtriser le mouvement sur une surface qui n'est pas un écrans semble complexe. C'est pour cela que je crois avoir accroché à se projet, je fût tout simplemente surprise par les technologies utilisées. Aussi, je trouve que leurs animations, effets visuels et "assets" 3D sont bien construit et animé.
 
-Comme J'ai dit plus haut, j'aime que cette installation peut sensibiliser la population sous différents aspects. Grâce à une oeuvre de ce genre, je suis persuadé qu'au moins une personne s'est demandé: "Comment puis-je aider ma communauté et les communautés qui m'entourent?". J'espère que certaines personnes ont décidé de prendre action et de s'investir dans un OBNL, de faire des dons ou bien de partager avec leur proches les ressources présentées dans cette oeuvre qui mérite d'être mise de l'avant. 
+Comme J'ai dit plus haut, j'aime beaucoup les technologies utilisées dans ce projet. L'utilisation d'un LIDAR pour calculer la position des mains sur la toile m'a possiblement inspiré pour de futurs projets. Je suis contente de savoir que du matériel du genre est disponnible à l'école et que l'équipe n'a pas eu besoin d'acheté des composants techniques de ce genre.
 
-L'un des aspects que j'ai moins aimé dans l'oeuvre est la qualité de production de certaines des vidéos présentées. Certaines vidéos sont sous forme de documentaire, avec des images, des vidéos et de l'audio de bonne qualité, tandis que d'autres sont majoritairement composé de vidéos prises à la webcam avec une qualité sonore beaucoup plus basse. Je trouve que la qualité de certaines vidéos auraient pu être amélioré avec l'utilisation d'un micro de meilleure qualité. Aussi, certaines vidéos ont des coupures de montage qui pourraient être améliorés au niveaux de l'audio. malgré tout, ces points ne gâchent pas l'expérience générale qu'offre l'oeuvre.
+L'un des aspects que j'ai moins aimé dans le dispositif fût la déception que j'ai ressentie lorsque j'ai visité l'exposition la deuxième fois le 17 mars pour voir le résultat final du projet. Sur le site web du projet, les membres de l'équipe d'***Arbre en Face*** avaient partagés quelques idées d'animations et d'événements supplémentaires à rajouter à leur projet. Au final, peut de ces idées ont vu le jour. De nouveaux arbres ont vu le jour, mais la fonctionnalité d'arroser les plantes, par exemple, n'est pas arrivé dans la version finale du dispositif. C'est dommage mais je comprends bien l'enjeu de temps que les équipes ont pour travailler sur leurs projets.
 
 <br/>
 
