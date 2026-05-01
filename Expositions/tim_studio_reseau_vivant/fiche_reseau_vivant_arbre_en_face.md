@@ -59,13 +59,11 @@ L'installation de cette oeuvre est à but contemplatif et interactif. Avec sa to
 
 ## Mise en espace
 
-Ces photos se retrouvent ensuite sur le haut des arbres, dans un cadre fleur. L'équipe d'***Arbre en Face*** a collaboré avec l'équipe du dispositif ***Quand les yeux se croisent***, qui ont eux aussi des caméras prennant en photo le visage des visiteurs, pour se partager entre eux leur base de données d'images de visages.
-
-Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En rentrant dans le grand studio, nous sommes accueillit par un objectif de caméra qui prend en photo notre visage. Celle-ci est installé sur le côté de l'installation. En marchant quelques pas de plus, nous pouvons appercevoir de face la toile du dispositif. le cadre de la toile est composé de poutre de bois. La toile est ensuite accroché au cadre avec des pinces en plastique imprimés en 3D à cet effet. Le bois a été traité avec du vernis et de la peinture pour embelir le tout. Au dessus de la toile est installé un capteur LIDAR pour calculer les mouvements et actions des doigts sur la toile. À la gauche du dispositif se retrouve un ordinateur avec moniteur où il est possible pour les créateurs du projet de s'occuper de celui-ci en cas de problèmes. À l'arrière de la toile, caché de tous, se trouve le projecteur au sol, la caméra ainsi que son trépied, l'ordinateur Raspberry Pi, un transmetteur et un récepteur Cat6, ainsi qu'une multitude de câbles et de connecteurs notés ci-bas. Pour les effets sonores faisant parti du projet, deux haut-parleurs sont installés, eux aussi, à l'arrière de la toile sur des pieds à cet effet. Le projecteur diffuse un fond de plaine en continu, puis des informations en plus, comme des événements et la croissance d'arbres, vont faire leur apparition seulement avec l'interactivité des visiteurs. Lors de l'apparition d'éléments, des effets sonores peuvent être entendus. Lorsqu'un arbre a poussé, celui-ci reste pendant un cours moment puis disparait pour laisser sa place à un autre arbre et à un nouveau visage
+Le dispositif ***Arbre en Face*** se trouve à l'entrée de l'exposition. En rentrant dans le grand studio, nous sommes accueillit par un objectif de caméra qui prend en photo notre visage. Celle-ci est installé sur le côté de l'installation. Ces photos se retrouvent ensuite sur le haut des arbres, dans un cadre fleur. L'équipe d'***Arbre en Face*** a collaboré avec l'équipe du dispositif ***Quand les yeux se croisent***, qui ont eux aussi des caméras prennant en photo le visage des visiteurs, pour se partager entre eux leur base de données d'images de visages. En marchant quelques pas de plus, nous pouvons appercevoir de face la toile du dispositif. le cadre de la toile est composé de poutre de bois. La toile est ensuite accroché au cadre avec des pinces en plastique imprimés en 3D à cet effet. Le bois a été traité avec du vernis et de la peinture pour embelir le tout. Au dessus de la toile est installé un capteur LIDAR pour calculer les mouvements et actions des doigts sur la toile. À la gauche du dispositif se retrouve un ordinateur avec moniteur où il est possible pour les créateurs du projet de s'occuper de celui-ci en cas de problèmes. À l'arrière de la toile, caché de tous, se trouve le projecteur au sol, la caméra ainsi que son trépied, l'ordinateur Raspberry Pi, un transmetteur et un récepteur Cat6, ainsi qu'une multitude de câbles et de connecteurs notés ci-bas. Pour les effets sonores faisant parti du projet, deux haut-parleurs sont installés, eux aussi, à l'arrière de la toile sur des pieds à cet effet. Le projecteur diffuse un fond de plaine en continu, puis des informations en plus, comme des événements et la croissance d'arbres, vont faire leur apparition seulement avec l'interactivité des visiteurs. Lors de l'apparition d'éléments, des effets sonores peuvent être entendus. Lorsqu'un arbre a poussé, celui-ci reste pendant un cours moment puis disparait pour laisser sa place à un autre arbre et à un nouveau visage
 
 <br/>
 
-![Croquis du dispositif()
+![Croquis du dispositif]()
 > Croquis du dispositif fait suite à la visite de l'exposition.
 
 <br/>
@@ -84,27 +82,18 @@ Voici les composants de l'installation apercevables lors de ma visite:
 <br/>
 
 **Strucuture:**
-- Trois poutres de métal incurvées.
-- Bras de métal qui permettent de soutenir l'installation.
+- Un cadre en bois de 2x3 mètres.
+- Pattes en bois à l'arrière du cadre qui permettent de faire tenir le cadre.
+- 40 pinces imprimés en 3D pour faire tenir la toile sur le cadre de bois.
 
 <br/>
 
 **Interactivité:**
-- 14 écrans qui permettent la présentation des vidéos.
-- Six hauts-parleurs sous forme de téléphones qui permettent l'écoute des vidéos.
+- Toile en splandex installé sur le cadre de bois.
 
 <br/>
 
-**Câbles:**
-- Minimum de 14 câbles hdmi.
-- Minimum de 14 câbles d'alimentation pour les écrans.
-- Câbles audios qui connectent les téléphones aux écrans.
-- Câbles qui relient l'oeuvre à un ordinateur qui fait fonctionner le tout.
-- Tout autres câbles en tout genre.
-
-<br/>
-
-La structure de l'installation est plutôt complexe et ne semble pas se désassembler facilement. Lors d'un possible transport, il serait préférable de bien protéger la structure, le matériel et les écrans car tout cela est assez fragile.
+La structure du dispositif ne peut pas être désassemblé. Lors d'un possible transport, il serait préférable de bien protéger la structure et le matériel fragile.
 
 <br/>
 
@@ -112,28 +101,47 @@ La structure de l'installation est plutôt complexe et ne semble pas se désasse
 
 
 ## Éléments nécessaires à la mise en exposition
-Le musée a utilisé ce matériel pour la mise en place de cette oeuvre: 
-
-<br/>
-
-**Cartel/texte de présentation:**
-- Une lumière légèrement chaude qui éclaire seulement le texte de présentation.
+La technique TIM a mis en place ces éléments pour l'exposition du dispositif: 
 
 <br/>
 
 **Strucuture:**
-- Un câble de métal qui soutient le poids de l'installation à partir du plafond.
-- Les poutres qui permettent de soutenir le matériel au plafond.
+- de multiples sacs de sable pour stabiliser la structure de bois et les éléments sur pieds ou trépieds.
 
 <br/>
 
-**Autre:**
-- Câbles en tout genre.
-- Du matériel pour attacher et ranger correctement les câbles.
+**texte de présentation:**
+- Une petite lumière del légèrement chaude qui éclaire seulement le texte de présentation installé sur un pied.
 
 <br/>
 
-Il est possible que d'autres éléments soient fournis par le musée.
+**Composants techniques:**
+- Ordinateur (tour)
+- Moniteur pour l'ordinateur
+- Clavier et souris pour l'ordinateur
+- 2 haut-parleurs sur leurs pieds
+- Capteur LIDAR
+- Projecteur
+- Caméra et trépied
+- BC204
+- Transmetteur Cat6
+- Récepteur Cat6
+
+<br/>
+
+**Câbles:**
+- 4 multiprise électrique
+- 6 rallonge électrique
+- 6 câbles ethernet
+- 5 câbles HDMI
+- 3 câbles XLR
+- 4 câbles USB
+- 2 câbles Display Port
+
+<br/>
+
+Il est possible que d'autres éléments soient fournis par la technique que je n'ai pas remarqué ou qu'ils ne sont pas inscrit dans la liste d'équipement de l'équipe.
+> Liste d'équipement de l'équipe sur la page web technique du projet: <https://mammouths.github.io/projet/#/technique/>
 
 <br/>
 
