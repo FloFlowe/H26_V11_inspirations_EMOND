@@ -9,7 +9,7 @@
 
 
 ## Introduction
-Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La science en grand***. Cette exposition intérieure est exposée au Centre des Sciences de Montréal depuis le 28 novembre 2019. ***Explore - La science en grand*** est une version améliorée de l'Exposition  ***Science 26***, qui existait depuis 2007! Celle-ci a fermé en septembre 2019 pour laisser place à son successeur. 
+Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La science en grand***. Cette exposition intérieure est exposée au Centre des Sciences de Montréal depuis le 28 novembre 2019. ***Explore - La science en grand*** est une version améliorée de l'Exposition  ***Science 26***, qui existait depuis 2007! Celle-ci a fermé en septembre 2019 pour laisser place à son successeur. Nous pouvons retrouver des dispositifs, multimédia ou non, de tout genre dans cette exposition. Cette fiche va parler plus en détails du dispositif ***Voir l'invisible***.
 
 ![Moi dans le Centre des Sciences de Montréal](media/explore_moi.png)
 > Moi dans le kadélioscope de l'entrée de l'Exposition ***Explore - La science en grand*** au Centre des Sciences de Montréal avec Colin Dubé et Kellie Gravel. Photo prise par Kellie Gravel.
@@ -26,7 +26,7 @@ Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La scie
 
 <br/>
 
-DESCRIPTION
+***Voir l'invisible*** est un dispositif créé par les équipes du Centre des Sciences de Montréal ainsi que la firme TKNL expériences. Cette installation permet de découvrir ce que nos yeux ne peuvent pas voir dans la réalité. Comme en dit le titre, il est possible de voir l'invisible grâce à une caméra infrarouge ainsi qu'une caméra ultraviolet en se déplaçant devant celles-ci. Les vidéos enregistrées par les caméras sont diffusées en temps réel sur de grandes écrans pour que petits et grands analysent un autre sens à la réalité.
 
 <br/> 
 
@@ -38,7 +38,7 @@ DESCRIPTION
 
 ## Mise en exposition
 
-L'installation de cette oeuvre est à but contemplatif et à but interactif. Avec ses 14 écrans, chaque vidéo est assignée un écran. Une à six vidéos jouent à la fois, pendant ce temps, les autre écrans affichent un motif représentant des feuilles d'arbres en mouvement. Le motif de feuille rajoute un aspect organique à l'installation multimédia et, à la fois, rapelle bien la communauté autochtone. Lors de l'écoute des vidéos, il est nécessaire de se déplacer devant l'installation pour utiliser les divers téléphones mis à disposition. Aussi, seulement le texte de présentation est éclairé, les seules autres sources de lumières dans l'installation sont les écrans elles-même et cela rajoute une certaine immersion lorsque l'on écoute les vidéos.
+L'installation de ce dispositif est à but contemplatif et à but interactif. Avec ses 3 écrans, il est possible de découvrir à quoi l'on ressemble dans le noir avec la caméra ultraviolet à la gauche, à découvrir les sources de chaleur les plus puissante de notre corps avec la caméra infrarouge à la droite et puis de comparer le tout avec l'aperçu de la caméra régulière au centre. L'expérience générale de ce dispositif est de se promener devant les caméras, d'analyser ce que l'on peut voir aux écrans.
 
 <br/>
 
@@ -58,7 +58,7 @@ L'installation de cette oeuvre est à but contemplatif et à but interactif. Ave
 
 <br/>
 
-L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Des bras de métal permettent aux poutres d'être fixées aux murs entourant l'installation et un câble de métal fixé à l'une des poutres du plafond et aux poutres blanches soutient aussi le poids de l'installation. Sur les trois poutres blanches sont installé un total de 14 écrans d'environ 10 pouces. Sur la poutre du bas est installé 6 téléphones servant de hauts parleurs pour les vidéos. À l'arrière de chacun des écrans se retrouve une boite blanche dans lequel se retrouve les connections et autre matériel nécessaire au bon fonctionnement de l'installation. Il est possible de voir des câbles hdmi allant des écrans aux boites. Certains fils sont aussi attaché aux poutres pour que l'installation soit propre à l'oeil. Aucun ordinateur ou dispositif permettant de faire fonctionner l'installation est visible et cela me fait croire que des fils vont de l'oeuvre à une autre pièce, où l'on pourrait retrouver un ordinateur, par les bras de métal qui soutiennent le tout. Les vidéos sur les écrans semblent jouer dans un ordre prédéfinis. Suite à la lecture des 14 vidéos, les écrans affichent le motif de feuille pendant un certain temps, puis les vidéos recommencent tranquillement à jouer.
+***Voir l'invisible*** est l'un des premiers dispositifs que l'on peut apercevoir lorsque l'on rentre dans la section où il y a la majorité des dispositifs multimédias. Les écrans et les caméras sont installés dans des boites en métal et sur chacune d'entre elles est inscrit le type de caméra utilisé. à la droite du dispositif se retrouve le texte de présentation et du texte d'accompagnement est aussi inscrit au sol. Des phrases comme "Peux-tu compter tes taches de rousseur" ou bien "Peux-tu trouver ta partie du corps la plus froide" y sont inscrite pour faciliter l'interaction avec le dispositif pour certains. Une lumière installée sur une poutre au plafond éclaire le texte de présentation. Les autres sources de lumières sont les lumières d'ambiances violettes qui sont à quelques endroit dans l'exposition puis les écrans elles-mêmes. Très peu de matériel et de composants techniques sont visibles dans cette installation, tout est caché dans les boites en métal, mais il est assez simple de se douter que chacunes des caméras sont reliés aux écrans respectives avec un câble hdmi, que les écrans et les caméras ont leurs fil d'alimentation et qu'il y a un certain composant qui permet aux caméras de tourner en continu sur les écrans sans manquer d'espace de stockage vidéo.
 
 <br/>
 
@@ -75,7 +75,18 @@ Voici les composants de l'installation apercevables lors de ma visite:
 
 <br/>
 
-**DESCRIPTION**
+**Composants techniques**
+- 3 écrans géants
+- 1 caméra avec objectif régulier.
+- 1 caméra infrarouge
+- 1 caméra ultraviolet
+- Composant(s) pour permettre la lecture en direct et en continu des caméras sur les écrans.
+
+**Câbles**
+- 3 câbles HDMI
+- 3 Câbles d'alimentation pour les écrans
+- 3 câbles d'alimentation pour les batteries des caméras
+- Tout autre fils pour les composants de lecture
 
 <br/>
 
@@ -91,11 +102,17 @@ Le Centre des Sciences de Montréal a utilisé ce matériel pour la mise en plac
 
 <br/>
 
-**DESCRIPTION**
+**Texte de présentation**
+- Le texte de présentation sur son pied.
+- Un point de lumière accroché à une poutre au plafond.
+
+**Sol**
+-Autocollant au sol pour le texte d'accompagnement.
+  
 
 <br/>
 
-Il est possible que d'autres éléments soient fournis par le centre.
+Il est possible que d'autres éléments soient fournis par le Centre des Sciences.
 
 <br/>
 
