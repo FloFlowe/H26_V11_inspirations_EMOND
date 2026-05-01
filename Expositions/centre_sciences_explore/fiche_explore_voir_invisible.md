@@ -11,8 +11,8 @@
 ## Introduction
 Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La science en grand***. Cette exposition intérieure est exposée au Centre des Sciences de Montréal depuis le 28 novembre 2019. ***Explore - La science en grand*** est une version améliorée de l'Exposition  ***Science 26***, qui existait depuis 2007! Celle-ci a fermé en septembre 2019 pour laisser place à son successeur. 
 
-![Moi dans le Centre des Sciences de Montréal]()
-> Moi dans l'Exposition ***Explore - La science en grand*** au Centre des Sciences de Montréal.
+![Moi dans le Centre des Sciences de Montréal](media/explore_moi.png)
+> Moi dans le kadélioscope de l'entrée de l'Exposition ***Explore - La science en grand*** au Centre des Sciences de Montréal avec Colin Dubé et Kellie Gravel. Photo prise par Kellie Gravel.
 
 <br/>
 
@@ -21,7 +21,7 @@ Le jeudi 2 avril 2026, j'ai visité l'exposition permanente ***Explore - La scie
 
 ## Voir l'invisible
 
-![Image du dispositif]()
+![Image du dispositif](media/explore_dispositif.png)
 > Vue globale du dispositif ***Voir l'invisible***
 
 <br/>
@@ -30,15 +30,13 @@ DESCRIPTION
 
 <br/> 
 
+![texte de présentation](media/explore_cartel.png)
+> Texte de présentation du dispositif ***Voir l'invisible***
 
+<br/> 
 
 
 ## Mise en exposition
-
-![Image du dispositif]()
-> Vue d'ensemble du dispositif ***Voir l'invisible***
-
-<br/>
 
 L'installation de cette oeuvre est à but contemplatif et à but interactif. Avec ses 14 écrans, chaque vidéo est assignée un écran. Une à six vidéos jouent à la fois, pendant ce temps, les autre écrans affichent un motif représentant des feuilles d'arbres en mouvement. Le motif de feuille rajoute un aspect organique à l'installation multimédia et, à la fois, rapelle bien la communauté autochtone. Lors de l'écoute des vidéos, il est nécessaire de se déplacer devant l'installation pour utiliser les divers téléphones mis à disposition. Aussi, seulement le texte de présentation est éclairé, les seules autres sources de lumières dans l'installation sont les écrans elles-même et cela rajoute une certaine immersion lorsque l'on écoute les vidéos.
 
@@ -49,8 +47,14 @@ L'installation de cette oeuvre est à but contemplatif et à but interactif. Ave
 
 ## Mise en espace
 
-![Image du dispositif]() 
->Image du dispositif
+![Image du dispositif](media/explore_dispositif_infrarouge.png)
+>Écran avec la caméra infrarouge du dispositif.
+
+![Image du dispositif](media/explore_dispositif_visible.png)
+>Écran avec la caméra régulière du dispositif.
+
+![Image du dispositif](media/explore_dispositif_ultraviolet.png)
+>Écran avec la caméra ultraviolet du dispositif.
 
 <br/>
 
@@ -58,7 +62,7 @@ L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatri
 
 <br/>
 
-![Croquis du dispositif]()
+![Croquis du dispositif](croquis/explore_croquis.png)
 > Croquis deu dispositif fait suite à la visite de l'exposition.
 
 <br/>
@@ -145,3 +149,5 @@ Page web du site du vieux port de Montréal parlant de l'Ouverture de l'expositi
 Page web du site INT. DESIGN qui documente rapidement l'Exposition et l'un de ses prix: <https://int.design/fr/projets/explore-la-science-en-grand/>
 
 Article de La Presse qui parle de l'ouverture de l'exposition et de ses attraits: <https://www.lapresse.ca/societe/2019-11-28/explore-une-exposition-permanente-renouvelee>
+
+Crédits de l'exposition: ![Crédits de l'exposition](media/explore_credit.png)
