@@ -119,3 +119,24 @@ Ce dispositif est installé au millieu du studio et je trouve que lorsque l'on y
 
 <br/>
 
+
+
+
+## Compétences et connaissances requises pour un dispositif multimédia
+
+<br/>
+
+### Cours du programme important pour un projet de troisième année
+- Conception d'une expérience Multimédia
+- Installation Multimédia
+- Objets interactifs
+
+<br/>
+
+###  Technique ou composante technologie nouvelle
+Le LIDAR est un capteur à laser utilisé dans **Arbre en face** pour mesurer la distance entre lui et des objets. Dans le cas d'**Arbre en face**, celui-ci calcule la position des mains touchant la toile pour faire apparaître les éléments intéractifs au bons endroits. 
+> L'équipe d'**Arbre en face** parlent du LIDAR dans cette vidéo démonstration de leur projet:
+> https://www.youtube.com/watch?v=Qbv81vm1Bek
+
+<br/>
+
