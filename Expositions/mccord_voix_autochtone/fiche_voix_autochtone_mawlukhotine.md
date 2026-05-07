@@ -1,7 +1,7 @@
 # Documentation de l'oeuvre: Mawlukhotine - Travaillons tous ensemble
 
 ![affiche de l'exposition](media/mawlukhotine_affiche.jpg)
-> Affiche de l'exposition ***Mawlukhotine - Travaillons tous ensemble***, installé au musée McCord Stewart. Image provenant de la page web de l'Exposition.
+> Affiche de l'exposition ***Voix autochtones d'aujourd'hui***, installé au musée McCord Stewart. Image provenant de la page web de l'Exposition.
 
 <br/>
 
@@ -9,7 +9,7 @@
 
 
 ## Introduction
-Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***. Cette exposition intérieure est exposée au musée McCord Stewart à Montréal depuis septembre 2021. Divisé en quatre parties, cette exposition est un assemblage de témoignages du peuple autochtone au Québec, allant de leur mode de vie à leurs souffrances. L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** fait partie de la dernière partie de l'exposition qui s'intitule: ***Saiakwanak Takwe’ní:io’ne’ - Prendre la place qui nous revient***.
+Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***. Cette exposition intérieure est exposée au musée McCord Stewart à Montréal depuis septembre 2021. Divisé en quatre parties, cette exposition est un assemblage de témoignages des peuples autochtones au Québec, allant de leur mode de vie à leurs souffrances. Le dispositif ***Mawlukhotine - Travaillons tous ensemble*** fait partie de la dernière partie de l'exposition qui s'intitule: ***Saiakwanak Takwe’ní:io’ne’ - Prendre la place qui nous revient***.
 
 ![Moi devant le musée McCord Stewart](media/mawlukhotine_autoportrait.jpg)
 > Moi devant l'entrée du musée McCord Stewart.
@@ -22,35 +22,35 @@ Le mercredi 4 mars 2026, j'ai visité l'exposition permanente ***Voix autochtone
 ## Mawlukhotine - Travaillons tous ensemble
 
 ![Image de l'oeuvre](media/mawlukhotine_oeuvre.jpg)
-> Vue globale de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+> Vue globale du dispositif ***Mawlukhotine - Travaillons tous ensemble***
 
 <br/>
 
-***Mawlukhotine - Travaillons tous ensemble*** est une oeuvre qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de la communauté autochtone. On y retrouve majoritairement des présentation de projets créatif, scientifique ou social expliqué par leurs créateurs et autres personnes ayant pris part aux projets. Le cartel de cette oeuvre est plutôt un court texte de présentation des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place l'oeuvre. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo du panneau de crédits.
+***Mawlukhotine - Travaillons tous ensemble*** est un dispositif qui met sous les feux des projecteurs 14 projets vidéos portant sur l'esprit de collaboration et de création présent au sein de les communautés autochtones. On y retrouve majoritairement des présentation de projets créatif, scientifique ou social expliqués par leurs créateurs et autres personnes ayant pris part aux projets. Le cartel de cette oeuvre est plutôt un court texte de présentation des vidéos présentées. Il n'y a donc aucune information précise sur les personnes ayant mis en place le dispositif. Par contre, toutes personnes ayant travaillé sur l'exposition sont cités à la fin de celle-ci. Dans les références au bas de la fiche, J'ai ajouté une photo du panneau de crédits.
 
 <br/> 
 
 ![Cartel de l'oeuvre](media/mawlukhotine_texte_presentation.jpg)
-> Cartel/texte de présentation de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+> Cartel/texte de présentation du dispositif ***Mawlukhotine - Travaillons tous ensemble***
 
 <br/>
 
 
-Comme dit plus haut, l'oeuvre contient 14 projets vidéos différents. Toutes font moins de 2 minutes. Voici une courte description de chacune des vidéos:
+Comme dit plus haut, le dispositif contient 14 projets vidéos différents. Toutes font moins de 2 minutes. Voici une courte description de chacune des vidéos:
 
 <br/>
 
 ### 1. L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique - (01:15)
 > **Par Gleb Raygorodetsky**
 
-Étant l'auteur du livre ***L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique***, Gleb Raygorodetsky parle de la place de la communauté autochtone dans la préservation de la planète, et comme quoi il faudrait se tourner vers eux pour mettre en place des techniques de préservation efficace. 
+Étant l'auteur du livre ***L'archipel de l'espoir: Sagesse et résilience dans la tourmente climatique***, Gleb Raygorodetsky parle de la place des communautés autochtones dans la préservation de la planète, et comme quoi il faudrait se tourner vers eux pour mettre en place des techniques de préservation efficace. 
 
 <br/>
 
 ### 2. « C’est le Québec qui est né dans mon pays! » - Carnet de rencontres, d’Ani Kuni à Kiuna - (1:23)
 > **Par Emanuelle Dufour**
 
-Étant l’autrice et dessinatrice de la bande dessinée ***C’est le Québec qui est né dans mon pays! - Carnet de rencontres, d’Ani Kuni à Kiuna***, Emanuelle Dufour parle de la présence du système colonial européen dans les territoires autochtone. À l’aide d’une cinquantaine de témoignages autochtones et allochtones, elle parle aussi de nombreux enjeux systémiques présents au Québec.
+Étant l’autrice et dessinatrice de la bande dessinée ***C’est le Québec qui est né dans mon pays! - Carnet de rencontres, d’Ani Kuni à Kiuna***, Emanuelle Dufour parle de la présence du système colonial européen dans les territoires autochtones. À l’aide d’une cinquantaine de témoignages autochtones et allochtones, elle parle aussi de nombreux enjeux systémiques présents au Québec.
 
 <br/>
 
@@ -77,7 +77,7 @@ Laurence Boudreault est étudiante et rechercheuse à l’université Laval et t
 ### 5. Oser s’en parler - (1:13)
 > **Par Charlotte Côté**
 
-***Oser s’en parler*** est un podcast créé par Charlotte Côté. Ce projet sert à mettre de l’avant les voix autochtones sous plusieurs angles et thèmes comme le racisme ou le privilège blanc. Le but est de sensibiliser le peuple canadien sur les enjeux vécus par les membres des communautés autochtone et allochtone.
+***Oser s’en parler*** est un podcast créé par Charlotte Côté. Ce projet sert à mettre de l’avant les voix autochtones sous plusieurs angles et thèmes comme le racisme ou le privilège blanc. Le but est de sensibiliser le peuple canadien sur les enjeux vécus par les membres des communautés autochtones et allochtone.
 
 <br/>
 
@@ -93,7 +93,7 @@ Laurence Boudreault est étudiante et rechercheuse à l’université Laval et t
 ### 7. Résilience Montréal - (1:40)
 > **Par Nakuset (Croe)**
 
-Nakuset est la directrice générale du refuge pour sans-abris ***Résilience Montréal***. Ce refuge accueille majoritairement des personnes faisant partie de la communauté autochtone. Ils ont comme but d’aider toute personne de la communauté avec leurs besoins de base, comme la nourriture et l’hygiène, ainsi qu’à les accompagner dans la vie de tous les jours.
+Nakuset est la directrice générale du refuge pour sans-abris ***Résilience Montréal***. Ce refuge accueille majoritairement des personnes faisant partie des communautés autochtones. Ils ont comme but d’aider toute personne de la communauté avec leurs besoins de base, comme la nourriture et l’hygiène, ainsi qu’à les accompagner dans la vie de tous les jours.
 
 <br/>
 
@@ -116,7 +116,7 @@ Le projet ***Tapiskwan*** est un programme servant à mettre en valeur et à par
 ### 10. Fondation Tekkie-Mamu: Transmission de la mémoire par réalité virtuelle - (1:19)
 > **Par Amalia Nanu et Steve Desbiens (Innu)**
 
-La fondation ***Tekkie-Mamu*** sert à aux jeunes autochtones de toucher à divers professions en lien avec la technologie, comme la programmation ou la conception web. Amalia Nanu et Steve Desbiens, tout les deux fondateurs de l’organisme, veulent aider les jeunes à rentrer sur le marché du travail avec des professions au goût du jour.
+La fondation ***Tekkie-Mamu*** sert aux jeunes autochtones de toucher à divers professions en lien avec la technologie, comme la programmation ou la conception web. Amalia Nanu et Steve Desbiens, tout les deux fondateurs de l’organisme, veulent aider les jeunes à rentrer sur le marché du travail avec des professions au goût du jour.
 
 <br/>
 
@@ -137,20 +137,20 @@ Jean St-Onge, marionnettiste de profession, veut partager l’histoire de sa lan
 ### 13. Uhu: Labos nomades - (1:29)
 > **Par Andréa Gonzalez et Stéphane Nepton (Wabanaki, Innu)**
 
-Le ***projet Uhu*** a pour but de mettre en place des ateliers pour les jeunes venant de communautés autochtones, visant à faire découvrir l’art numérique. Les fondateurs du projet, Andréa Gonzalez et Stéphane Nepton, veulent transmettre la culture autochtone aux jeune, la persévérance scolaire et bien plus à travers des activités interactives.
+Le ***projet Uhu*** a pour but de mettre en place des ateliers pour les jeunes venant de communautés autochtones, visant à faire découvrir l’art numérique. Les fondateurs du projet, Andréa Gonzalez et Stéphane Nepton, veulent transmettre les cultures autochtonse aux jeune, la persévérance scolaire et bien plus à travers des activités interactives.
 
 <br/>
 
 ### 14. Le projet Wampum: Pour un renouveau des relations avec les Premiers Peuples au Québec - (1:37)
 > **Par Sarah Clément, Audrey Pinsonneault et Alexandra Beaulieu**
 
-***Le projet Wampum*** est un projet mis en place pour réunir et tisser des liens entres les membres de la communauté autochtone à travers des événements et activités. Les 3 fondatrices du projet décrivent ***Le projet WamPum*** comme une initiative de rapprochement et de partage entre les communautés où tout les participants mettent un peu de soi dans les activités. 
+***Le projet Wampum*** est un projet mis en place pour réunir et tisser des liens entres les membres des communautés autochtones à travers des événements et activités. Les 3 fondatrices du projet décrivent ***Le projet WamPum*** comme une initiative de rapprochement et de partage entre les communautés où tout les participants mettent un peu de soi dans les activités. 
 
 <br/>
 
 <br/>
 
-Pour visionner les vidéos de l'oeuvre, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
+Pour visionner les vidéos du dispositif, vous pouvez les retrouver sur le microsite de l'exposition ***Voix autochtones d'aujourd'hui: savoir, trauma, résilience***, ou en cliquant sur le lien suivant:
 <https://expositions.musee-mccord-stewart.ca/fr/choix-expositions/voix-autochtones/saiakwanaktakweniione-prendre-la-place-qui-nous-revient/16-projet-wampum/>
 
 <br/>
@@ -161,11 +161,11 @@ Pour visionner les vidéos de l'oeuvre, vous pouvez les retrouver sur le microsi
 ## Mise en exposition
 
 ![Image de l'oeuvre](media/mawlukhotine_oeuvre.jpg)
-> Vue d'ensemble de l'oeuvre ***Mawlukhotine - Travaillons tous ensemble***
+> Vue d'ensemble du dispositif ***Mawlukhotine - Travaillons tous ensemble***
 
 <br/>
 
-L'installation de cette oeuvre est à but contemplatif et à but interactif. Avec ses 14 écrans, chaque vidéo est assignée un écran. Une à six vidéos jouent à la fois, pendant ce temps, les autre écrans affichent un motif représentant des feuilles d'arbres en mouvement. Le motif de feuille rajoute un aspect organique à l'installation multimédia et, à la fois, rapelle bien la communauté autochtone. Lors de l'écoute des vidéos, il est nécessaire de se déplacer devant l'installation pour utiliser les divers téléphones mis à disposition. Aussi, seulement le texte de présentation est éclairé, les seules autres sources de lumières dans l'installation sont les écrans elles-même et cela rajoute une certaine immersion lorsque l'on écoute les vidéos.
+L'installation de ce dispositif est à but contemplatif et à but interactif. Avec ses 14 écrans, chaque vidéo est assignée un écran. Une à six vidéos jouent à la fois, pendant ce temps, les autre écrans affichent un motif représentant des feuilles d'arbres en mouvement. Le motif de feuille rajoute un aspect organique à l'installation multimédia et, à la fois, rapelle bien les communautés autochtones. Lors de l'écoute des vidéos, il est nécessaire de se déplacer devant l'installation pour utiliser les divers téléphones mis à disposition. Aussi, seulement le texte de présentation est éclairé, les seules autres sources de lumières dans l'installation sont les écrans elles-même et cela rajoute une certaine immersion lorsque l'on écoute les vidéos.
 
 <br/>
 
@@ -175,16 +175,16 @@ L'installation de cette oeuvre est à but contemplatif et à but interactif. Ave
 ## Mise en espace
 
 ![Image de l'oeuvre](media/mawlukhotine_oeuvre_vue_gauche.jpg) 
->Image de l'oeuvre de côté.
+>Image du dispositif de côté.
 
 <br/>
 
-L'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. L'oeuvre est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. L'oeuvre est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Des bras de métal permettent aux poutres d'être fixées aux murs entourant l'installation et un câble de métal fixé à l'une des poutres du plafond et aux poutres blanches soutient aussi le poids de l'installation. Sur les trois poutres blanches sont installé un total de 14 écrans d'environ 10 pouces. Sur la poutre du bas est installé 6 téléphones servant de hauts parleurs pour les vidéos. À l'arrière de chacun des écrans se retrouve une boite blanche dans lequel se retrouve les connections et autre matériel nécessaire au bon fonctionnement de l'installation. Il est possible de voir des câbles hdmi allant des écrans aux boites. Certains fils sont aussi attaché aux poutres pour que l'installation soit propre à l'oeil. Aucun ordinateur ou dispositif permettant de faire fonctionner l'installation est visible et cela me fait croire que des fils vont de l'oeuvre à une autre pièce, où l'on pourrait retrouver un ordinateur, par les bras de métal qui soutiennent le tout. Les vidéos sur les écrans semblent jouer dans un ordre prédéfinis. Suite à la lecture des 14 vidéos, les écrans affichent le motif de feuille pendant un certain temps, puis les vidéos recommencent tranquillement à jouer.
+Le dispositif ***Mawlukhotine - Travaillons tous ensemble*** se trouve dans la quatrième et dernière partie de l'exposition et clore aussi la dite exposition. Le dispositif est installée dans un coin de la dernière pièce de l'exposition, son texte de présentation inscrit sur le mur de gauche, éclairé par une simple lumière installée au plafond sur une poutre. Le dispositif est constituée de trois poutres blanches incurvées en métal, qui soutiennent l'entièreté de l'installation. Des bras de métal permettent aux poutres d'être fixées aux murs entourant l'installation et un câble de métal fixé à l'une des poutres du plafond et aux poutres blanches soutient aussi le poids de l'installation. Sur les trois poutres blanches sont installé un total de 14 écrans d'environ 10 pouces. Sur la poutre du bas est installé 6 téléphones servant de hauts parleurs pour les vidéos. À l'arrière de chacun des écrans se retrouve une boite blanche dans lequel se retrouve les connections et autre matériel nécessaire au bon fonctionnement de l'installation. Il est possible de voir des câbles hdmi allant des écrans aux boites. Certains fils sont aussi attaché aux poutres pour que l'installation soit propre à l'oeil. Aucun ordinateur ou dispositif permettant de faire fonctionner l'installation est visible et cela me fait croire que des fils vont de l'oeuvre à une autre pièce, où l'on pourrait retrouver un ordinateur, par les bras de métal qui soutiennent le tout. Les vidéos sur les écrans semblent jouer dans un ordre prédéfinis. Suite à la lecture des 14 vidéos, les écrans affichent le motif de feuille pendant un certain temps, puis les vidéos recommencent tranquillement à jouer.
 
 <br/>
 
 ![Croquis de l'oeuvre](croquis/mawlukhotine_croquis_installation.jpg)
-> Croquis de l'oeuvre fait suite à la visite de l'exposition.
+> Croquis du dispositif fait suite à la visite de l'exposition.
 
 <br/>
 
@@ -225,7 +225,7 @@ La structure de l'installation est plutôt complexe et ne semble pas se désasse
 
 
 ## Éléments nécessaires à la mise en exposition
-Le musée a utilisé ce matériel pour la mise en place de cette oeuvre: 
+Le musée a utilisé ce matériel pour la mise en place de ce dispositif: 
 
 <br/>
 
@@ -256,21 +256,21 @@ Il est possible que d'autres éléments soient fournis par le musée.
 ## Expérience vécue
 
 ![Vue d'ensemble de la pièce de l'oeuvre](media/mawlukhotine_oeuvre_vue_ensemble.jpg)
-> Vue d'ensemble de la pièce où se trouve l'oeuvre. Image provenant de la page web de l'Exposition.
+> Vue d'ensemble de la pièce où se trouve le dispositif. Image provenant de la page web de l'Exposition.
 
 <br/>
 
 ### Posture du visiteur
-L'entrée principale de l'exposition se trouve à la première partie de celle-ci. Un certain ordre chronologique est mis en place puisque l'exposition est divisée en quatre parties. Naturellement, les visiteurs vont découvrir l'exposition de la première à la quatrième partie. Toutefois, il n'est pas défendu de rentrer dans l'exposition par sa sortie à la quatrième partie. Rentrer de ce côté permet de voir l'oeuvre ***Mawlukhotine - Travaillons tous ensemble*** en premier donc il est possible que cette oeuvre soit l'introduction à l'exposition pour certains. 
+L'entrée principale de l'exposition se trouve à la première partie de celle-ci. Un certain ordre chronologique est mis en place puisque l'exposition est divisée en quatre parties. Naturellement, les visiteurs vont découvrir l'exposition de la première à la quatrième partie. Toutefois, il n'est pas défendu de rentrer dans l'exposition par sa sortie à la quatrième partie. Rentrer de ce côté permet de voir le dispositif ***Mawlukhotine - Travaillons tous ensemble*** en premier donc il est possible que ce dispositif soit l'introduction à l'exposition pour certains. 
 
 Si on explore l'exposition dans l'ordre suggéré, la première partie est composé de plusieurs projections murale directement à l'entrée. La deuxième partie est un assemblage de textes, de vidéos, de photographies et d'objets en exposition éparpillés dans une même pièce. La troisième partie est semblabe à la partie précédente, mais intègre aussi de la projection murale et se retrouve dans une pièce à l'atmosphère et à l'éclairage plus sombre. Finalement, la quatrième partie est une conclusion aux autres parties, sous forme de vidéos et d'objets en exposition.
 
 <br/>
 
-### Mon opinion sur l'oeuvre
-J'ai apprécié le contenu présenté à travers cette oeuvre. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques à la communauté autochtone et allochtone du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
+### Mon opinion sur le dispositif
+J'ai apprécié le contenu présenté à travers ce dispositif. Il est possible, à travers les 14 vidéos, de découvrir 14 projets extrêmement pertinents et bénéfiques aux communautés autochtones et allochtones du Québec. Ne faisant pas partie de ces communautés, je ne suis pas beaucoup sensibilisé aux moyens que prennent les premières nations pour préserver leur patrimoine, éduquer les prochaines génération et mettre en valeur leur droits. Je trouve que cette oeuvre est un parfait moyen de sensibiliser des personnes dans la même situation que moi, puis de mettre sous le feu des projecteurs des organismes et projets valorisants qui ont droit à beaucoup plus de visibilité.
 
-Comme J'ai dit plus haut, j'aime que cette installation peut sensibiliser la population sous différents aspects. Grâce à une oeuvre de ce genre, je suis persuadé qu'au moins une personne s'est demandé: "Comment puis-je aider ma communauté et les communautés qui m'entourent?". J'espère que certaines personnes ont décidé de prendre action et de s'investir dans un OBNL, de faire des dons ou bien de partager avec leur proches les ressources présentées dans cette oeuvre qui mérite d'être mise de l'avant. 
+Comme J'ai dit plus haut, j'aime que cette installation peut sensibiliser la population sous différents aspects. Grâce à un dispositif de ce genre, je suis persuadé qu'au moins une personne s'est demandé: "Comment puis-je aider ma communauté et les communautés qui m'entourent?". J'espère que certaines personnes ont décidé de prendre action et de s'investir dans un OBNL, de faire des dons ou bien de partager avec leur proches les ressources présentées dans cette oeuvre qui mérite d'être mise de l'avant. 
 
 L'un des aspects que j'ai moins aimé dans l'oeuvre est la qualité de production de certaines des vidéos présentées. Certaines vidéos sont sous forme de documentaire, avec des images, des vidéos et de l'audio de bonne qualité, tandis que d'autres sont majoritairement composé de vidéos prises à la webcam avec une qualité sonore beaucoup plus basse. Je trouve que la qualité de certaines vidéos auraient pu être amélioré avec l'utilisation d'un micro de meilleure qualité. Aussi, certaines vidéos ont des coupures de montage qui pourraient être améliorés au niveaux de l'audio. malgré tout, ces points ne gâchent pas l'expérience générale qu'offre l'oeuvre.
 
